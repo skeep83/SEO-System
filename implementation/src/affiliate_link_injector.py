@@ -1,7 +1,17 @@
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
+
+
+def build_block(by_product: dict) -> str:
+    lines = ["## Offers", ""]
+    for product in ["Jobber", "Housecall Pro", "ServiceTitan", "HubSpot"]:
+        item = by_product[product]
+        lines.append(f"- [{item['cta']}]({item['placeholder_url']})")
+    lines.append("")
+    return "\n".join(lines)
 
 
 def main() -> None:
@@ -12,17 +22,14 @@ def main() -> None:
     updated = 0
     for file in content_dir.glob("*.md"):
         text = file.read_text()
+        block = build_block(by_product)
         if "## Offers" in text:
-            continue
-        block = ["## Offers", ""]
-        for product in ["Jobber", "Housecall Pro", "ServiceTitan", "HubSpot"]:
-            item = by_product[product]
-            block.append(f"- [{item['cta']}]({item['placeholder_url']})")
-        block.append("")
-        text += "\n" + "\n".join(block)
+            text = re.sub(r"## Offers\n(?:.*\n)*?(?=\n## |\Z)", block + "\n", text, flags=re.MULTILINE)
+        else:
+            text += "\n" + block
         file.write_text(text)
         updated += 1
-    print(f"Injected offers into {updated} files")
+    print(f"Injected or refreshed offers in {updated} files")
 
 
 if __name__ == "__main__":

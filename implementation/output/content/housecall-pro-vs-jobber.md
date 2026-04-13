@@ -74,7 +74,8 @@ This page should be reviewed before publication, especially if it carries affili
 - [Try Jobber](https://example.com/aff/jobber)
 - [Try Housecall Pro](https://example.com/aff/housecall-pro)
 - [Request ServiceTitan demo](https://example.com/aff/servicetitan)
-- [Try HubSpot](https://example.com/aff/hubspot)
+- [Try HubSpot](https://sovrn.co/17bz38j)
+
 
 ## Get help choosing
 If you want help narrowing the shortlist for your business, use a simple lead form or contact flow here later.
