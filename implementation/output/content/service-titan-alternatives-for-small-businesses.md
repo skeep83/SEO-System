@@ -72,3 +72,9 @@ This page should be reviewed before publication, especially if it carries affili
 - [Try Housecall Pro](https://example.com/aff/housecall-pro)
 - [Request ServiceTitan demo](https://example.com/aff/servicetitan)
 - [Try HubSpot](https://example.com/aff/hubspot)
+
+## Get help choosing
+If you want help narrowing the shortlist for your business, use a simple lead form or contact flow here later.
+
+## Affiliate disclosure
+Some links on this site may later become affiliate links. Recommendations should stay based on fit, not only payout.
