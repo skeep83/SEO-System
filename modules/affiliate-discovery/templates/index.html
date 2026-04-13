@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Affiliate Discovery</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 1100px; margin: 32px auto; padding: 0 16px; }
+    .stats { display: flex; gap: 12px; margin: 20px 0; }
+    .card { border: 1px solid #ddd; border-radius: 10px; padding: 12px 16px; min-width: 120px; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { text-align: left; padding: 10px; border-bottom: 1px solid #eee; vertical-align: top; }
+    th { background: #fafafa; }
+    .muted { color: #666; }
+  </style>
+</head>
+<body>
+  <h1>Affiliate Discovery Module</h1>
+  <p class="muted">Discovery and tracking dashboard for affiliate programs related to ServiceHub content.</p>
+
+  <div class="stats">
+    <div class="card"><strong>{{ counts.total }}</strong><br>Total</div>
+    <div class="card"><strong>{{ counts.to_research }}</strong><br>To research</div>
+    <div class="card"><strong>{{ counts.applied }}</strong><br>Applied</div>
+    <div class="card"><strong>{{ counts.approved }}</strong><br>Approved</div>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Product</th>
+        <th>Status</th>
+        <th>Program Type</th>
+        <th>Network</th>
+        <th>Fit</th>
+        <th>Target Pages</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for p in programs %}
+      <tr>
+        <td><strong>{{ p.product }}</strong><br><span class="muted">{{ p.program_url or 'No URL yet' }}</span></td>
+        <td>{{ p.status }}</td>
+        <td>{{ p.program_type }}</td>
+        <td>{{ p.network }}</td>
+        <td>{{ p.fit_score }}</td>
+        <td>{{ p.target_pages | join(', ') }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</body>
+</html>

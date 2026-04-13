@@ -1,0 +1,42 @@
+[
+  {
+    "product": "Jobber",
+    "program_type": "unknown",
+    "network": "unknown",
+    "program_url": "",
+    "status": "to_research",
+    "fit_score": 0,
+    "notes": "",
+    "target_pages": ["best-crm-for-small-service-business", "jobber-alternatives", "housecall-pro-vs-jobber"]
+  },
+  {
+    "product": "Housecall Pro",
+    "program_type": "unknown",
+    "network": "unknown",
+    "program_url": "",
+    "status": "to_research",
+    "fit_score": 0,
+    "notes": "",
+    "target_pages": ["best-crm-for-small-service-business", "housecall-pro-vs-jobber"]
+  },
+  {
+    "product": "HubSpot",
+    "program_type": "unknown",
+    "network": "unknown",
+    "program_url": "",
+    "status": "to_research",
+    "fit_score": 0,
+    "notes": "",
+    "target_pages": ["best-crm-for-small-service-business"]
+  },
+  {
+    "product": "Zoho CRM",
+    "program_type": "unknown",
+    "network": "unknown",
+    "program_url": "",
+    "status": "to_research",
+    "fit_score": 0,
+    "notes": "",
+    "target_pages": ["best-crm-for-small-service-business"]
+  }
+]
