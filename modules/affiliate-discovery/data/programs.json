@@ -1,42 +1,53 @@
 [
   {
     "product": "Jobber",
-    "program_type": "unknown",
-    "network": "unknown",
-    "program_url": "",
-    "status": "to_research",
-    "fit_score": 0,
-    "notes": "",
-    "target_pages": ["best-crm-for-small-service-business", "jobber-alternatives", "housecall-pro-vs-jobber"]
+    "program_type": "affiliate_or_referral",
+    "network": "manual_research",
+    "program_url": "https://www.google.com/search?q=Jobber+affiliate+program",
+    "status": "applied",
+    "fit_score": 9,
+    "notes": "test-note",
+    "target_pages": [
+      "best-crm-for-small-service-business",
+      "jobber-alternatives",
+      "housecall-pro-vs-jobber"
+    ]
   },
   {
     "product": "Housecall Pro",
-    "program_type": "unknown",
-    "network": "unknown",
-    "program_url": "",
-    "status": "to_research",
-    "fit_score": 0,
-    "notes": "",
-    "target_pages": ["best-crm-for-small-service-business", "housecall-pro-vs-jobber"]
+    "program_type": "affiliate_or_referral",
+    "network": "manual_research",
+    "program_url": "https://www.google.com/search?q=Housecall+Pro+affiliate+program",
+    "status": "research_started",
+    "fit_score": 9,
+    "notes": "Strong commercial fit. Confirm direct or network-based partner path.",
+    "target_pages": [
+      "best-crm-for-small-service-business",
+      "housecall-pro-vs-jobber"
+    ]
   },
   {
     "product": "HubSpot",
-    "program_type": "unknown",
-    "network": "unknown",
-    "program_url": "",
-    "status": "to_research",
-    "fit_score": 0,
-    "notes": "",
-    "target_pages": ["best-crm-for-small-service-business"]
+    "program_type": "affiliate",
+    "network": "manual_research",
+    "program_url": "https://www.google.com/search?q=HubSpot+affiliate+program",
+    "status": "research_started",
+    "fit_score": 8,
+    "notes": "Likely accessible partner path. Good broad CRM fallback option.",
+    "target_pages": [
+      "best-crm-for-small-service-business"
+    ]
   },
   {
     "product": "Zoho CRM",
-    "program_type": "unknown",
-    "network": "unknown",
-    "program_url": "",
-    "status": "to_research",
-    "fit_score": 0,
-    "notes": "",
-    "target_pages": ["best-crm-for-small-service-business"]
+    "program_type": "affiliate_or_partner",
+    "network": "manual_research",
+    "program_url": "https://www.google.com/search?q=Zoho+CRM+affiliate+program",
+    "status": "research_started",
+    "fit_score": 7,
+    "notes": "Worth checking as lower-friction SMB CRM option.",
+    "target_pages": [
+      "best-crm-for-small-service-business"
+    ]
   }
 ]
