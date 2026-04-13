@@ -1,0 +1,22 @@
+[
+  {
+    "product": "Jobber",
+    "placeholder_url": "https://example.com/aff/jobber",
+    "cta": "Try Jobber"
+  },
+  {
+    "product": "Housecall Pro",
+    "placeholder_url": "https://example.com/aff/housecall-pro",
+    "cta": "Try Housecall Pro"
+  },
+  {
+    "product": "ServiceTitan",
+    "placeholder_url": "https://example.com/aff/servicetitan",
+    "cta": "Request ServiceTitan demo"
+  },
+  {
+    "product": "HubSpot",
+    "placeholder_url": "https://example.com/aff/hubspot",
+    "cta": "Try HubSpot"
+  }
+]

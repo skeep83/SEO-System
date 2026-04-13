@@ -34,5 +34,35 @@
     "page_type": "faq",
     "audience": "small business owners learning the category",
     "intent": "informational"
+  },
+  {
+    "keyword": "best crm for roofing companies",
+    "page_type": "use_case",
+    "audience": "roofing company owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for cleaning business",
+    "page_type": "use_case",
+    "audience": "cleaning business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "housecall pro pricing vs jobber pricing",
+    "page_type": "comparison",
+    "audience": "buyers comparing cost and fit",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "service titan alternatives for small businesses",
+    "page_type": "alternatives",
+    "audience": "smaller teams seeking lighter options",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best dispatch software for small service business",
+    "page_type": "best_of",
+    "audience": "operators comparing dispatch tools",
+    "intent": "commercial"
   }
 ]

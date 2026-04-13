@@ -1,17 +1,17 @@
 ---
-title: "What Is A Crm For Home Service Businesses"
-slug: "what-is-a-crm-for-home-service-businesses"
-page_type: "faq"
-primary_keyword: "what is a crm for home service businesses"
-search_intent: "informational"
-audience: "small business owners learning the category"
+title: "Housecall Pro Pricing Vs Jobber Pricing: Which Is Better?"
+slug: "housecall-pro-pricing-vs-jobber-pricing"
+page_type: "comparison"
+primary_keyword: "housecall pro pricing vs jobber pricing"
+search_intent: "commercial"
+audience: "buyers comparing cost and fit"
 monetization_type: "affiliate"
-review_required: false
+review_required: true
 ---
 
-# What Is A Crm For Home Service Businesses
+# Housecall Pro Pricing Vs Jobber Pricing: Which Is Better?
 
-Users searching for 'what is a crm for home service businesses' need a fast, trustworthy answer with actionable recommendations.
+Users searching for 'housecall pro pricing vs jobber pricing' need a fast, trustworthy answer with actionable recommendations.
 
 ## Overview
 Draft notes for: Overview.
@@ -22,14 +22,17 @@ Draft notes for: Who this is for.
 ## Key considerations
 Draft notes for: Key considerations.
 
-## Short answer
-Draft notes for: Short answer.
+## Quick verdict
+Draft notes for: Quick verdict.
 
-## Detailed explanation
-Draft notes for: Detailed explanation.
+## Feature comparison
+Draft notes for: Feature comparison.
 
-## Common questions
-Draft notes for: Common questions.
+## Pricing
+Draft notes for: Pricing.
+
+## Best fit by scenario
+Draft notes for: Best fit by scenario.
 
 ## Call to action
 See the recommended tools and compare the best fit for your business.

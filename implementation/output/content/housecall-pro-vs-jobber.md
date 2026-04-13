@@ -14,25 +14,25 @@ review_required: true
 Users searching for 'housecall pro vs jobber' need a fast, trustworthy answer with actionable recommendations.
 
 ## Overview
-This page is designed to help small service businesses compare CRM options without wasting time on generic software lists.
+Draft notes for: Overview.
 
 ## Who this is for
-It is for owners and operators who need quoting, scheduling, invoicing, customer follow-up, and basic pipeline visibility in one place.
+Draft notes for: Who this is for.
 
 ## Key considerations
-The most important factors are field-service fit, ease of use, quoting and dispatch features, pricing clarity, and how well the tool scales with the team.
+Draft notes for: Key considerations.
 
 ## Quick verdict
-This comparison should quickly tell the reader which product fits smaller teams versus more complex service operations.
+Draft notes for: Quick verdict.
 
 ## Feature comparison
-The comparison should focus on scheduling, dispatching, invoicing, communication, and reporting rather than generic CRM checklists.
+Draft notes for: Feature comparison.
 
 ## Pricing
-Pricing should be evaluated by real fit, not headline cost alone, because operational mismatch can be more expensive than software fees.
+Draft notes for: Pricing.
 
 ## Best fit by scenario
-Different tools win depending on business size, service complexity, and how central field operations are to daily workflow.
+Draft notes for: Best fit by scenario.
 
 ## Call to action
 See the recommended tools and compare the best fit for your business.
@@ -69,6 +69,9 @@ See the recommended tools and compare the best fit for your business.
 ## Editor note
 This page should be reviewed before publication, especially if it carries affiliate links or product claims.
 
-## Conversion path
-Readers on this page should be guided toward a shortlist, comparison decision, and a natural affiliate click or product evaluation next step.
-A lead form can be added later for consultation or software matching offers.
+## Offers
+
+- [Try Jobber](https://example.com/aff/jobber)
+- [Try Housecall Pro](https://example.com/aff/housecall-pro)
+- [Request ServiceTitan demo](https://example.com/aff/servicetitan)
+- [Try HubSpot](https://example.com/aff/hubspot)

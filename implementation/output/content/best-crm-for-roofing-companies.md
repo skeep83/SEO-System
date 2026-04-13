@@ -1,17 +1,17 @@
 ---
-title: "What Is A Crm For Home Service Businesses"
-slug: "what-is-a-crm-for-home-service-businesses"
-page_type: "faq"
-primary_keyword: "what is a crm for home service businesses"
-search_intent: "informational"
-audience: "small business owners learning the category"
+title: "Best Crm For Roofing Companies"
+slug: "best-crm-for-roofing-companies"
+page_type: "use_case"
+primary_keyword: "best crm for roofing companies"
+search_intent: "commercial"
+audience: "roofing company owners"
 monetization_type: "affiliate"
-review_required: false
+review_required: true
 ---
 
-# What Is A Crm For Home Service Businesses
+# Best Crm For Roofing Companies
 
-Users searching for 'what is a crm for home service businesses' need a fast, trustworthy answer with actionable recommendations.
+Users searching for 'best crm for roofing companies' need a fast, trustworthy answer with actionable recommendations.
 
 ## Overview
 Draft notes for: Overview.
@@ -22,14 +22,17 @@ Draft notes for: Who this is for.
 ## Key considerations
 Draft notes for: Key considerations.
 
-## Short answer
-Draft notes for: Short answer.
+## Why this niche needs a CRM
+Draft notes for: Why this niche needs a CRM.
 
-## Detailed explanation
-Draft notes for: Detailed explanation.
+## Top options
+Draft notes for: Top options.
 
-## Common questions
-Draft notes for: Common questions.
+## Implementation tips
+Draft notes for: Implementation tips.
+
+## Recommendation
+Draft notes for: Recommendation.
 
 ## Call to action
 See the recommended tools and compare the best fit for your business.

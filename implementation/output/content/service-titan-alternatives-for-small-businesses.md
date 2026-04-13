@@ -1,17 +1,17 @@
 ---
-title: "What Is A Crm For Home Service Businesses"
-slug: "what-is-a-crm-for-home-service-businesses"
-page_type: "faq"
-primary_keyword: "what is a crm for home service businesses"
-search_intent: "informational"
-audience: "small business owners learning the category"
+title: "Service Titan Alternatives to Consider For Small Businesses"
+slug: "service-titan-alternatives-for-small-businesses"
+page_type: "alternatives"
+primary_keyword: "service titan alternatives for small businesses"
+search_intent: "commercial"
+audience: "smaller teams seeking lighter options"
 monetization_type: "affiliate"
-review_required: false
+review_required: true
 ---
 
-# What Is A Crm For Home Service Businesses
+# Service Titan Alternatives to Consider For Small Businesses
 
-Users searching for 'what is a crm for home service businesses' need a fast, trustworthy answer with actionable recommendations.
+Users searching for 'service titan alternatives for small businesses' need a fast, trustworthy answer with actionable recommendations.
 
 ## Overview
 Draft notes for: Overview.
@@ -22,14 +22,14 @@ Draft notes for: Who this is for.
 ## Key considerations
 Draft notes for: Key considerations.
 
-## Short answer
-Draft notes for: Short answer.
+## Why people look for alternatives
+Draft notes for: Why people look for alternatives.
 
-## Detailed explanation
-Draft notes for: Detailed explanation.
+## Best alternatives
+Draft notes for: Best alternatives.
 
-## Common questions
-Draft notes for: Common questions.
+## How to switch
+Draft notes for: How to switch.
 
 ## Call to action
 See the recommended tools and compare the best fit for your business.

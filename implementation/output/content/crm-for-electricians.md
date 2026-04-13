@@ -14,25 +14,25 @@ review_required: true
 Users searching for 'crm for electricians' need a fast, trustworthy answer with actionable recommendations.
 
 ## Overview
-This page is designed to help small service businesses compare CRM options without wasting time on generic software lists.
+Draft notes for: Overview.
 
 ## Who this is for
-It is for owners and operators who need quoting, scheduling, invoicing, customer follow-up, and basic pipeline visibility in one place.
+Draft notes for: Who this is for.
 
 ## Key considerations
-The most important factors are field-service fit, ease of use, quoting and dispatch features, pricing clarity, and how well the tool scales with the team.
+Draft notes for: Key considerations.
 
 ## Why this niche needs a CRM
-Service businesses lose time and revenue when customer communication, quoting, scheduling, and invoicing are scattered across spreadsheets and chat apps.
+Draft notes for: Why this niche needs a CRM.
 
 ## Top options
-The best options are usually the products already optimized for dispatch, field teams, repeat jobs, and customer lifecycle visibility.
+Draft notes for: Top options.
 
 ## Implementation tips
-A small team should start with job intake, quoting, and customer tracking first, then layer in automation and reporting after adoption.
+Draft notes for: Implementation tips.
 
 ## Recommendation
-The best choice depends on whether the business values simplicity, deeper operations control, or broader marketing automation.
+Draft notes for: Recommendation.
 
 ## Call to action
 See the recommended tools and compare the best fit for your business.
@@ -69,6 +69,9 @@ See the recommended tools and compare the best fit for your business.
 ## Editor note
 This page should be reviewed before publication, especially if it carries affiliate links or product claims.
 
-## Conversion path
-Readers on this page should be guided toward a shortlist, comparison decision, and a natural affiliate click or product evaluation next step.
-A lead form can be added later for consultation or software matching offers.
+## Offers
+
+- [Try Jobber](https://example.com/aff/jobber)
+- [Try Housecall Pro](https://example.com/aff/housecall-pro)
+- [Request ServiceTitan demo](https://example.com/aff/servicetitan)
+- [Try HubSpot](https://example.com/aff/hubspot)
