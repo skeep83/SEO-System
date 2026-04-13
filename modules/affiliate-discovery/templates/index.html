@@ -12,10 +12,11 @@
     th, td { text-align: left; padding: 10px; border-bottom: 1px solid #eee; vertical-align: top; }
     th { background: #fafafa; }
     .muted { color: #666; }
-    input[type="text"], textarea, select { width: 100%; box-sizing: border-box; padding: 8px; }
+    textarea, select { width: 100%; box-sizing: border-box; padding: 8px; }
     textarea { min-height: 68px; }
     .actions { display: flex; gap: 8px; align-items: center; }
     button { padding: 8px 12px; border-radius: 8px; border: 1px solid #ccc; background: #f6f6f6; cursor: pointer; }
+    ul { margin: 8px 0 0; padding-left: 18px; }
   </style>
 </head>
 <body>
@@ -38,7 +39,7 @@
         <th>Program Type</th>
         <th>Network</th>
         <th>Fit</th>
-        <th>Target Pages</th>
+        <th>Sources</th>
         <th>Update</th>
       </tr>
     </thead>
@@ -48,12 +49,23 @@
         <td>
           <strong>{{ p.product }}</strong><br>
           <span class="muted">{{ p.program_url or 'No URL yet' }}</span>
+          <ul>
+            {% for page in p.target_pages %}
+            <li>{{ page }}</li>
+            {% endfor %}
+          </ul>
         </td>
         <td>{{ p.status }}</td>
         <td>{{ p.program_type }}</td>
         <td>{{ p.network }}</td>
         <td>{{ p.fit_score }}</td>
-        <td>{{ p.target_pages | join(', ') }}</td>
+        <td>
+          <ul>
+            {% for src in p.candidate_sources or [] %}
+            <li><a href="{{ src }}" target="_blank">{{ src }}</a></li>
+            {% endfor %}
+          </ul>
+        </td>
         <td>
           <form method="post" action="/update">
             <input type="hidden" name="product" value="{{ p.product }}">

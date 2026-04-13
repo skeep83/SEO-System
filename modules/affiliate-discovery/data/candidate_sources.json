@@ -1,0 +1,38 @@
+[
+  {
+    "product": "Jobber",
+    "query": "Jobber affiliate program",
+    "sources": [
+      "https://www.google.com/search?q=Jobber+affiliate+program",
+      "https://www.bing.com/search?q=Jobber+affiliate+program",
+      "https://duckduckgo.com/?q=Jobber+affiliate+program"
+    ]
+  },
+  {
+    "product": "Housecall Pro",
+    "query": "Housecall Pro affiliate program",
+    "sources": [
+      "https://www.google.com/search?q=Housecall+Pro+affiliate+program",
+      "https://www.bing.com/search?q=Housecall+Pro+affiliate+program",
+      "https://duckduckgo.com/?q=Housecall+Pro+affiliate+program"
+    ]
+  },
+  {
+    "product": "HubSpot",
+    "query": "HubSpot affiliate program",
+    "sources": [
+      "https://www.google.com/search?q=HubSpot+affiliate+program",
+      "https://www.bing.com/search?q=HubSpot+affiliate+program",
+      "https://duckduckgo.com/?q=HubSpot+affiliate+program"
+    ]
+  },
+  {
+    "product": "Zoho CRM",
+    "query": "Zoho CRM affiliate program",
+    "sources": [
+      "https://www.google.com/search?q=Zoho+CRM+affiliate+program",
+      "https://www.bing.com/search?q=Zoho+CRM+affiliate+program",
+      "https://duckduckgo.com/?q=Zoho+CRM+affiliate+program"
+    ]
+  }
+]

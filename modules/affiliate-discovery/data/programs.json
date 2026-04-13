@@ -11,6 +11,11 @@
       "best-crm-for-small-service-business",
       "jobber-alternatives",
       "housecall-pro-vs-jobber"
+    ],
+    "candidate_sources": [
+      "https://www.google.com/search?q=Jobber+affiliate+program",
+      "https://www.bing.com/search?q=Jobber+affiliate+program",
+      "https://duckduckgo.com/?q=Jobber+affiliate+program"
     ]
   },
   {
@@ -24,6 +29,11 @@
     "target_pages": [
       "best-crm-for-small-service-business",
       "housecall-pro-vs-jobber"
+    ],
+    "candidate_sources": [
+      "https://www.google.com/search?q=Housecall+Pro+affiliate+program",
+      "https://www.bing.com/search?q=Housecall+Pro+affiliate+program",
+      "https://duckduckgo.com/?q=Housecall+Pro+affiliate+program"
     ]
   },
   {
@@ -36,6 +46,11 @@
     "notes": "Likely accessible partner path. Good broad CRM fallback option.",
     "target_pages": [
       "best-crm-for-small-service-business"
+    ],
+    "candidate_sources": [
+      "https://www.google.com/search?q=HubSpot+affiliate+program",
+      "https://www.bing.com/search?q=HubSpot+affiliate+program",
+      "https://duckduckgo.com/?q=HubSpot+affiliate+program"
     ]
   },
   {
@@ -48,6 +63,11 @@
     "notes": "Worth checking as lower-friction SMB CRM option.",
     "target_pages": [
       "best-crm-for-small-service-business"
+    ],
+    "candidate_sources": [
+      "https://www.google.com/search?q=Zoho+CRM+affiliate+program",
+      "https://www.bing.com/search?q=Zoho+CRM+affiliate+program",
+      "https://duckduckgo.com/?q=Zoho+CRM+affiliate+program"
     ]
   }
 ]
