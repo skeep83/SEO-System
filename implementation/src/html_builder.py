@@ -81,6 +81,22 @@ def classify_section(heading: str) -> str:
     return "default"
 
 
+def render_product_cards(lines: list[str]) -> str:
+    cards: list[str] = []
+    current_title: str | None = None
+    current_lines: list[str] = []
+    for line in lines + ["### __END__"]:
+        if line.startswith("### "):
+            if current_title is not None:
+                body = "".join(render_line(x) for x in current_lines if x.strip())
+                cards.append(f"<article class='product-card'><h3>{html.escape(current_title)}</h3><div class='product-body'>{body}</div></article>")
+            current_title = line[4:].strip()
+            current_lines = []
+        else:
+            current_lines.append(line)
+    return "<div class='product-grid'>" + "".join(cards) + "</div>"
+
+
 def render_section(heading: str, lines: list[str]) -> str:
     section_type = classify_section(heading)
     classes = {
@@ -90,6 +106,9 @@ def render_section(heading: str, lines: list[str]) -> str:
         "highlight": "panel panel-accent",
         "default": "panel",
     }
+    if section_type == "products":
+        return f"<section class='{classes[section_type]}'><h2>{html.escape(heading)}</h2>{render_product_cards(lines)}</section>"
+
     body: list[str] = []
     list_buffer: list[str] = []
     for line in lines:
@@ -224,6 +243,10 @@ def render_page(title: str, sections: list[tuple[str, list[str]]]) -> str:
     .soft-list {{ margin: 0; padding-left: 20px; color: #22314b; }}
     .soft-list li {{ margin-bottom: 8px; }}
     .footer-card {{ margin-top: 24px; padding: 18px 22px; border-radius: 22px; display:flex; justify-content:space-between; gap:16px; flex-wrap:wrap; color: var(--muted); }}
+    .product-grid {{ display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:16px; }}
+    .product-card {{ padding: 18px; border-radius: 20px; background: rgba(255,255,255,0.74); box-shadow: var(--shadow-inset); }}
+    .product-card h3 {{ margin-top:0; margin-bottom:12px; }}
+    .product-body p {{ margin-bottom:8px; }}
     .site-index {{ display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px; margin-top: 22px; }}
     .index-card {{ padding: 18px; border-radius: 20px; background: var(--surface); border:1px solid var(--border); box-shadow: var(--shadow-soft); backdrop-filter: blur(14px) saturate(130%); }}
     @media (max-width: 920px) {{
