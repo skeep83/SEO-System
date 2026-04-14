@@ -20,6 +20,13 @@ ServiceHub aims to publish practical, commercially aware, but useful software co
 - [Understand CRM for plumbers](crm-for-plumbers.html)
 - [Understand CRM for electricians](crm-for-electricians.html)
 
+
+## Site navigation
+- [Home](index.html)
+- [About ServiceHub](about-servicehub.html)
+- [Editorial Policy](editorial-policy.html)
+- [Contact](contact.html)
+
 ## Offers
 
 - [Try Jobber](https://example.com/aff/jobber)

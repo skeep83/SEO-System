@@ -19,6 +19,13 @@ If you want help narrowing down software options for your service business, cont
 - [Understand CRM for plumbers](crm-for-plumbers.html)
 - [Understand CRM for electricians](crm-for-electricians.html)
 
+
+## Site navigation
+- [Home](index.html)
+- [About ServiceHub](about-servicehub.html)
+- [Editorial Policy](editorial-policy.html)
+- [Contact](contact.html)
+
 ## Offers
 
 - [Try Jobber](https://example.com/aff/jobber)

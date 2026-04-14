@@ -3,6 +3,7 @@ from __future__ import annotations
 import html
 import re
 from pathlib import Path
+import json
 
 from analytics_settings import GA4_MEASUREMENT_ID
 from site_settings import SITE_NAME, SITE_TAGLINE, SITE_URL
@@ -295,9 +296,22 @@ def render_page(title: str, sections: list[tuple[str, list[str]]]) -> str:
 
 
 def render_index(pages: list[tuple[str, str]]) -> str:
-    cards = []
-    for slug, title in pages:
-        cards.append(f"<a class='index-card' href='{slug}.html'><strong>{html.escape(title)}</strong><p>{html.escape(slug_to_label(slug))}</p></a>")
+    base = Path(__file__).resolve().parents[1]
+    curated_path = base / 'output' / 'homepage_sections.json'
+    curated = json.loads(curated_path.read_text()) if curated_path.exists() else {}
+    title_map = {slug: title for slug, title in pages}
+
+    def card(slug: str, label: str | None = None) -> str:
+        shown = label or title_map.get(slug, slug_to_label(slug))
+        return f"<a class='index-card' href='{slug}.html'><strong>{html.escape(shown)}</strong><p>{html.escape(slug_to_label(slug))}</p></a>"
+
+    featured = ''.join(card(item['slug'], item.get('label')) for item in curated.get('featured_money_pages', []))
+    trust = ''.join(card(item['slug'], item.get('label')) for item in curated.get('trust_pages', []))
+    clusters = []
+    for cluster in curated.get('clusters', []):
+        items = ''.join(f"<li><a href='{slug}.html'>{html.escape(title_map.get(slug, slug_to_label(slug)))}</a></li>" for slug in cluster.get('items', []))
+        clusters.append(f"<div class='cluster-card'><strong>{html.escape(cluster['name'])}</strong><ul>{items}</ul></div>")
+    latest = ''.join(card(slug, title) for slug, title in pages[:12])
     return f"""<!doctype html>
 <html lang=\"en\">
 <head>
@@ -307,13 +321,15 @@ def render_index(pages: list[tuple[str, str]]) -> str:
   <style>
     body {{ margin:0; font-family: Inter, ui-sans-serif, system-ui, sans-serif; background: linear-gradient(180deg, #f3f6fb, #e8edf6); color:#152033; }}
     .shell {{ max-width: 1120px; margin:0 auto; padding: 28px 18px 60px; }}
-    .hero, .index-card {{ background: rgba(255,255,255,0.65); border:1px solid rgba(255,255,255,.65); box-shadow: 14px 14px 30px rgba(163,177,198,.34), -12px -12px 28px rgba(255,255,255,.9); backdrop-filter: blur(14px) saturate(130%); }}
-    .hero {{ border-radius: 30px; padding: 34px; }}
+    .hero, .index-card, .cluster-card {{ background: rgba(255,255,255,0.65); border:1px solid rgba(255,255,255,.65); box-shadow: 14px 14px 30px rgba(163,177,198,.34), -12px -12px 28px rgba(255,255,255,.9); backdrop-filter: blur(14px) saturate(130%); }}
+    .hero {{ border-radius: 30px; padding: 34px; margin-bottom:22px; }}
     h1 {{ font-size: clamp(2.2rem, 4vw, 4rem); margin: 0 0 12px; letter-spacing: -.04em; }}
+    h2 {{ margin: 28px 0 14px; font-size: 1.4rem; }}
     p {{ color:#5d6d88; line-height:1.65; }}
-    .grid {{ display:grid; grid-template-columns: repeat(auto-fit, minmax(240px,1fr)); gap:18px; margin-top:22px; }}
-    .index-card {{ display:block; padding:20px; border-radius:22px; color:inherit; text-decoration:none; }}
-    .index-card strong {{ display:block; margin-bottom: 8px; font-size: 1.05rem; }}
+    .grid {{ display:grid; grid-template-columns: repeat(auto-fit, minmax(240px,1fr)); gap:18px; margin-top:10px; }}
+    .index-card, .cluster-card {{ display:block; padding:20px; border-radius:22px; color:inherit; text-decoration:none; }}
+    .index-card strong, .cluster-card strong {{ display:block; margin-bottom: 8px; font-size: 1.05rem; }}
+    .cluster-card ul {{ margin: 10px 0 0; padding-left: 18px; color:#5d6d88; }}
   </style>
   {ga4_snippet()}
 </head>
@@ -322,9 +338,16 @@ def render_index(pages: list[tuple[str, str]]) -> str:
     <section class="hero">
       <div style="font-size:.8rem;text-transform:uppercase;letter-spacing:.05em;color:#7f5cff;font-weight:700;">ServiceHub</div>
       <h1>{html.escape(SITE_NAME)}</h1>
-      <p>{html.escape(SITE_TAGLINE)}. Clean content architecture, soft-depth visual style, and stronger CTA hierarchy.</p>
+      <p>{html.escape(SITE_TAGLINE)}. Built to help small service businesses choose software faster, with clearer comparisons, trust pages, and commercial buying guidance.</p>
     </section>
-    <section class="grid">{''.join(cards)}</section>
+    <h2>Featured buying guides</h2>
+    <section class="grid">{featured}</section>
+    <h2>Trust and editorial pages</h2>
+    <section class="grid">{trust}</section>
+    <h2>Core topic clusters</h2>
+    <section class="grid">{''.join(clusters)}</section>
+    <h2>More guides</h2>
+    <section class="grid">{latest}</section>
   </div>
 </body>
 </html>"""
