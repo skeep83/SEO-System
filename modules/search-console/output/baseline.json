@@ -1,0 +1,33 @@
+{
+  "site": "sc-domain:servicehub.md",
+  "sites": {
+    "siteEntry": [
+      {
+        "siteUrl": "sc-domain:servicehub.md",
+        "permissionLevel": "siteFullUser"
+      }
+    ]
+  },
+  "sitemaps": {
+    "sitemap": [
+      {
+        "path": "https://servicehub.md/sitemap.xml",
+        "lastSubmitted": "2026-04-14T22:31:45.163Z",
+        "isPending": false,
+        "isSitemapsIndex": false,
+        "type": "sitemap",
+        "lastDownloaded": "2026-04-14T22:31:46.460Z",
+        "warnings": "0",
+        "errors": "0",
+        "contents": [
+          {
+            "type": "web",
+            "submitted": "18",
+            "indexed": "0"
+          }
+        ]
+      }
+    ]
+  },
+  "target_sitemap": "https://servicehub.md/sitemap.xml"
+}
