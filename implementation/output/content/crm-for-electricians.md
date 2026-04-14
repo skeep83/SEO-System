@@ -77,6 +77,13 @@ This page should be reviewed before publication, especially if it carries affili
 - Choose a broader CRM if pipeline, automation, and marketing matter more than technician workflows.
 - Eliminate options that are too complex for your current team size.
 
+
+## Related guides
+- [Compare Jobber and Housecall Pro](housecall-pro-vs-jobber.html)
+- [See Jobber alternatives](jobber-alternatives.html)
+- [Understand CRM for plumbers](crm-for-plumbers.html)
+- [Understand CRM for electricians](crm-for-electricians.html)
+
 ## Offers
 
 - [Try Jobber](https://example.com/aff/jobber)
