@@ -14,7 +14,7 @@ review_required: true
 Users searching for 'housecall pro review for small business' need a fast, trustworthy answer with actionable recommendations.
 
 ## Overview
-This page is designed to help small service businesses compare CRM options without wasting time on generic software lists.
+Housecall Pro can be a strong fit for small service businesses, but only if the business actually benefits from its communication, dispatch, and payments workflow. This page should help a buyer decide whether Housecall Pro is a practical upgrade or unnecessary complexity.
 
 ## Who this is for
 It is for owners and operators who need quoting, scheduling, invoicing, customer follow-up, and basic pipeline visibility in one place.
