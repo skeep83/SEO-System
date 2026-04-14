@@ -56,6 +56,7 @@ def ga4_snippet() -> str:
 def render_inline(text: str) -> str:
     escaped = html.escape(text)
     escaped = re.sub(r"\[(.*?)\]\((https?://[^\)]+)\)", r'<a href="\2" target="_blank" rel="nofollow noopener">\1</a>', escaped)
+    escaped = re.sub(r"\[(.*?)\]\(([^\)]+\.html)\)", r'<a href="\2">\1</a>', escaped)
     return escaped
 
 

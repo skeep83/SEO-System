@@ -123,8 +123,6 @@ See the recommended tools and compare the best fit for your business.
 - Pricing note: free tier plus paid plans
 - Source: https://www.hubspot.com/
 
-## Editor note
-This page should be reviewed before publication, especially if it carries affiliate links or product claims.
 
 ## Decision shortcuts
 - Choose a field-service-first tool if scheduling and dispatch are central.
