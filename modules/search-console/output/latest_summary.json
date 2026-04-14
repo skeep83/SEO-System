@@ -1,0 +1,10 @@
+{
+  "site": "sc-domain:servicehub.md",
+  "startDate": "2026-03-17",
+  "endDate": "2026-04-13",
+  "summary": {
+    "responseAggregationType": "byProperty"
+  },
+  "topPages": [],
+  "topQueries": []
+}
