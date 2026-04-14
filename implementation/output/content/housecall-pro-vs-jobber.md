@@ -35,7 +35,7 @@ Pricing should be evaluated by real fit, not headline cost alone, because operat
 Different tools win depending on business size, service complexity, and how central field operations are to daily workflow.
 
 ## Call to action
-See the recommended tools and compare the best fit for your business.
+Shortlist the 1 to 2 tools that best match your workflow first, then use the offer block only after eliminating the obvious poor fits. Good software decisions usually come from narrowing choices, not clicking the first CTA.
 
 ## Product scorecards
 
@@ -135,3 +135,13 @@ If your shortlist is still unclear, use the contact path on ServiceHub once the 
 
 ## Affiliate disclosure
 Some links on this site may later become affiliate links. Recommendations should stay based on fit, not only payout.
+
+## FAQ
+### Is a field-service CRM always better than a general CRM?
+Not always. It depends on whether your daily bottleneck is field operations or sales and marketing workflow.
+
+### What is the biggest mistake small service businesses make when choosing software?
+Choosing based on generic feature lists instead of matching the tool to scheduling, quoting, dispatch, invoicing, and follow-up needs.
+
+### Should a small team choose the most powerful platform available?
+Usually no. A smaller team often benefits more from faster adoption and operational clarity than from maximum feature depth.

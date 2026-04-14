@@ -138,3 +138,13 @@ If you want help narrowing the shortlist for your business, use a simple lead fo
 
 ## Affiliate disclosure
 Some links on this site may later become affiliate links. Recommendations should stay based on fit, not only payout.
+
+## FAQ
+### Is a field-service CRM always better than a general CRM?
+Not always. It depends on whether your daily bottleneck is field operations or sales and marketing workflow.
+
+### What is the biggest mistake small service businesses make when choosing software?
+Choosing based on generic feature lists instead of matching the tool to scheduling, quoting, dispatch, invoicing, and follow-up needs.
+
+### Should a small team choose the most powerful platform available?
+Usually no. A smaller team often benefits more from faster adoption and operational clarity than from maximum feature depth.
