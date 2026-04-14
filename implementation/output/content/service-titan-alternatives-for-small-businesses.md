@@ -37,9 +37,9 @@ This page should help a buyer narrow the shortlist fast, not just learn vocabula
 ## Call to action
 See the recommended tools and compare the best fit for your business.
 
-## Product records
+## Product scorecards
 
-### Jobber record
+### Jobber scorecard
 - Best fit: small field-service teams needing simple operations coverage
 - Adoption score: 9/10
 - Workflow depth score: 7/10
@@ -47,7 +47,7 @@ See the recommended tools and compare the best fit for your business.
 - Complexity: low
 - Verdict: Best starting point for many small service businesses that want estimates, scheduling, invoicing, and customer follow-up without heavy setup.
 
-### Housecall Pro record
+### Housecall Pro scorecard
 - Best fit: growing service teams needing stronger communication and dispatch coordination
 - Adoption score: 8/10
 - Workflow depth score: 8/10
@@ -55,7 +55,7 @@ See the recommended tools and compare the best fit for your business.
 - Complexity: medium
 - Verdict: Strong option when communication, payments, and dispatch feel central to the business model.
 
-### ServiceTitan record
+### ServiceTitan scorecard
 - Best fit: larger service operations with heavier process complexity
 - Adoption score: 4/10
 - Workflow depth score: 10/10
@@ -63,7 +63,7 @@ See the recommended tools and compare the best fit for your business.
 - Complexity: high
 - Verdict: Powerful, but usually too heavy for smaller operators unless workflow depth clearly outweighs complexity cost.
 
-### HubSpot record
+### HubSpot scorecard
 - Best fit: service businesses valuing CRM pipeline and marketing flexibility
 - Adoption score: 8/10
 - Workflow depth score: 4/10

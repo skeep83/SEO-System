@@ -75,6 +75,8 @@ def classify_section(heading: str) -> str:
         return "offer"
     if "recommended products" in name or "top picks" in name:
         return "products"
+    if "product scorecards" in name:
+        return "scorecards"
     if "comparison" in name:
         return "comparison"
     if "final recommendation" in name or "call to action" in name:
@@ -103,11 +105,12 @@ def render_section(heading: str, lines: list[str]) -> str:
     classes = {
         "offer": "panel panel-accent",
         "products": "panel panel-soft",
+        "scorecards": "panel panel-soft",
         "comparison": "panel panel-soft",
         "highlight": "panel panel-accent",
         "default": "panel",
     }
-    if section_type == "products":
+    if section_type in {"products", "scorecards"}:
         return f"<section class='{classes[section_type]}'><h2>{html.escape(heading)}</h2>{render_product_cards(lines)}</section>"
 
     body: list[str] = []
