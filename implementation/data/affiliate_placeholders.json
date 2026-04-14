@@ -18,5 +18,20 @@
     "product": "HubSpot",
     "placeholder_url": "https://sovrn.co/17bz38j",
     "cta": "Try HubSpot"
+  },
+  {
+    "product": "Zoho CRM",
+    "placeholder_url": "https://www.zoho.com/crm/",
+    "cta": "Explore Zoho CRM"
+  },
+  {
+    "product": "monday.com",
+    "placeholder_url": "https://monday.com/crm",
+    "cta": "Explore monday CRM"
+  },
+  {
+    "product": "Pipedrive",
+    "placeholder_url": "https://www.pipedrive.com/",
+    "cta": "Explore Pipedrive"
   }
 ]
