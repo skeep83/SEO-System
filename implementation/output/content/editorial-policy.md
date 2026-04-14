@@ -1,6 +1,6 @@
 # Editorial Policy
 
-ServiceHub aims to publish practical, commercially aware, but useful software comparisons.
+ServiceHub aims to publish commercially aware but genuinely useful software comparisons for small service businesses.
 
 ## Editorial standards
 - prioritize fit over hype

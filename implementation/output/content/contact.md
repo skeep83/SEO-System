@@ -1,6 +1,6 @@
 # Contact
 
-If you want help narrowing down software options for your service business, contact ServiceHub through the contact path that will be added here.
+If you need help narrowing down software options for your service business, use this page as the current contact and assistance route. The long-term goal is to offer clearer shortlist guidance for buyers comparing practical options.
 
 ## Best fit for outreach
 - owners comparing CRM or dispatch tools

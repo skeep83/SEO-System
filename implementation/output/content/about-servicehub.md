@@ -1,6 +1,6 @@
 # About ServiceHub
 
-ServiceHub publishes practical software buying guides for small service businesses. The goal is simple: help owners and operators make better software decisions without wasting time on generic comparison lists.
+ServiceHub is a focused software-buying publication for small service businesses. It exists to help owners evaluate CRM, dispatch, quoting, invoicing, and workflow tools with more practical judgment and less generic listicle noise.
 
 ## What we cover
 - CRM tools for small service businesses
@@ -10,7 +10,7 @@ ServiceHub publishes practical software buying guides for small service business
 - implementation-oriented software guidance
 
 ## How recommendations work
-Recommendations are based on workflow fit, operational usefulness, and likely suitability for small service teams.
+Recommendations should be based on workflow fit, operational usefulness, and likely suitability for smaller service teams rather than hype, vendor branding, or enterprise feature bloat.
 
 ## Affiliate disclosure
 Some links on this site may be affiliate links. That should not change the recommendation logic.
