@@ -64,5 +64,41 @@
     "page_type": "best_of",
     "audience": "operators comparing dispatch tools",
     "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for hvac companies",
+    "page_type": "use_case",
+    "audience": "hvac business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for pest control business",
+    "page_type": "use_case",
+    "audience": "pest control business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "jobber pricing review",
+    "page_type": "pricing",
+    "audience": "buyers evaluating Jobber cost and value",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "housecall pro review for small business",
+    "page_type": "review",
+    "audience": "small service teams evaluating Housecall Pro",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for appliance repair business",
+    "page_type": "use_case",
+    "audience": "appliance repair business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "hubspot for home service business",
+    "page_type": "use_case",
+    "audience": "service businesses considering HubSpot",
+    "intent": "commercial"
   }
 ]
