@@ -71,7 +71,6 @@ See the recommended tools and compare the best fit for your business.
 - Complexity: medium
 - Verdict: Best when pipeline visibility, automation, and marketing matter more than field-service-specific operations.
 
-
 ## Verdict snapshot
 - Jobber: strongest fit for smaller field-service teams that want simplicity and operational coverage.
 - Housecall Pro: strong choice when communication, dispatch coordination, and payments matter more.
@@ -107,19 +106,16 @@ See the recommended tools and compare the best fit for your business.
 - Pricing note: free tier plus paid plans
 - Source: https://www.hubspot.com/
 
-
 ## Decision shortcuts
 - Choose a field-service-first tool if scheduling and dispatch are central.
 - Choose a broader CRM if pipeline, automation, and marketing matter more than technician workflows.
 - Eliminate options that are too complex for your current team size.
-
 
 ## Related guides
 - [Compare Jobber and Housecall Pro](housecall-pro-vs-jobber.html)
 - [See Jobber alternatives](jobber-alternatives.html)
 - [Understand CRM for plumbers](crm-for-plumbers.html)
 - [Understand CRM for electricians](crm-for-electricians.html)
-
 
 ## Site navigation
 - [Home](index.html)
@@ -134,8 +130,8 @@ See the recommended tools and compare the best fit for your business.
 - [Request ServiceTitan demo](https://example.com/aff/servicetitan)
 - [Try HubSpot](https://sovrn.co/17bz38j)
 
-## Get help choosing
-If you want help narrowing the shortlist for your business, use a simple lead form or contact flow here later.
+## Need help choosing
+If your shortlist is still unclear, use the contact path on ServiceHub once the help workflow is fully enabled.
 
 ## Affiliate disclosure
 Some links on this site may later become affiliate links. Recommendations should stay based on fit, not only payout.
