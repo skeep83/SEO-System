@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 import html
 from site_settings import SITE_NAME, SITE_TAGLINE
+from analytics_settings import GA4_MEASUREMENT_ID
 
 
 def parse_markdown_sections(text: str) -> tuple[str, list[tuple[str, list[str]]]]:
@@ -28,6 +29,19 @@ def parse_markdown_sections(text: str) -> tuple[str, list[tuple[str, list[str]]]
     return title, sections
 
 
+def ga4_snippet() -> str:
+    if not GA4_MEASUREMENT_ID:
+        return ""
+    return f"""
+  <script async src=\"https://www.googletagmanager.com/gtag/js?id={GA4_MEASUREMENT_ID}\"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){{dataLayer.push(arguments);}}
+    gtag('js', new Date());
+    gtag('config', '{GA4_MEASUREMENT_ID}');
+  </script>"""
+
+
 def render_page(title: str, sections: list[tuple[str, list[str]]]) -> str:
     body = [f"<h1>{html.escape(title)}</h1>"]
     for heading, lines in sections:
@@ -50,13 +64,14 @@ def render_page(title: str, sections: list[tuple[str, list[str]]]) -> str:
     section {{ margin: 28px 0; }}
     .nav {{ margin-bottom: 24px; color: #666; }}
   </style>
+  {analytics}
 </head>
 <body>
   <div class=\"nav\"><a href=\"index.html\">← Home</a></div>
   {body}
 </body>
 </html>
-""".format(title=html.escape(title), body="\n  ".join(body))
+""".format(title=html.escape(title), body="\n  ".join(body), analytics=ga4_snippet())
 
 
 def main() -> None:
@@ -76,7 +91,7 @@ def main() -> None:
     for slug, title in pages:
         index_lines.append(f'<li><a href="{slug}.html">{html.escape(title)}</a></li>')
     index_lines.append("</ul>")
-    index_html = "<!doctype html><html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width, initial-scale=1'><title>Site Index</title></head><body style='font-family:Arial,sans-serif;max-width:820px;margin:40px auto;padding:0 16px'>" + "".join(index_lines) + "</body></html>"
+    index_html = "<!doctype html><html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width, initial-scale=1'><title>Site Index</title>" + ga4_snippet() + "</head><body style='font-family:Arial,sans-serif;max-width:820px;margin:40px auto;padding:0 16px'>" + "".join(index_lines) + "</body></html>"
     (site_dir / "index.html").write_text(index_html)
     print(f"Built HTML site in {site_dir}")
 
