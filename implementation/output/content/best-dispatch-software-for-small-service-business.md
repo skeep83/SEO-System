@@ -53,6 +53,40 @@ This page should help a buyer narrow the shortlist fast, not just learn vocabula
 ## Call to action
 See the recommended tools and compare the best fit for your business.
 
+## Product records
+
+### Jobber record
+- Best fit: small field-service teams needing simple operations coverage
+- Adoption score: 9/10
+- Workflow depth score: 7/10
+- Marketing score: 4/10
+- Complexity: low
+- Verdict: Best starting point for many small service businesses that want estimates, scheduling, invoicing, and customer follow-up without heavy setup.
+
+### Housecall Pro record
+- Best fit: growing service teams needing stronger communication and dispatch coordination
+- Adoption score: 8/10
+- Workflow depth score: 8/10
+- Marketing score: 4/10
+- Complexity: medium
+- Verdict: Strong option when communication, payments, and dispatch feel central to the business model.
+
+### ServiceTitan record
+- Best fit: larger service operations with heavier process complexity
+- Adoption score: 4/10
+- Workflow depth score: 10/10
+- Marketing score: 5/10
+- Complexity: high
+- Verdict: Powerful, but usually too heavy for smaller operators unless workflow depth clearly outweighs complexity cost.
+
+### HubSpot record
+- Best fit: service businesses valuing CRM pipeline and marketing flexibility
+- Adoption score: 8/10
+- Workflow depth score: 4/10
+- Marketing score: 10/10
+- Complexity: medium
+- Verdict: Best when pipeline visibility, automation, and marketing matter more than field-service-specific operations.
+
 
 ## Verdict snapshot
 - Jobber: strongest fit for smaller field-service teams that want simplicity and operational coverage.
