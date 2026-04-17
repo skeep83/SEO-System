@@ -1,7 +1,7 @@
 # Final Readiness Report
 
-- Content pages: 20
-- HTML pages: 21
+- Content pages: 28
+- HTML pages: 29
 - Sitemap present: True
 - Monetization endpoints configured: 7
 

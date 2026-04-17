@@ -100,5 +100,53 @@
     "page_type": "use_case",
     "audience": "service businesses considering HubSpot",
     "intent": "commercial"
+  },
+  {
+    "keyword": "jobber vs service titan",
+    "page_type": "comparison",
+    "audience": "buyers comparing simple vs complex service software",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "housecall pro alternatives",
+    "page_type": "alternatives",
+    "audience": "buyers considering alternatives to Housecall Pro",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for garage door business",
+    "page_type": "use_case",
+    "audience": "garage door business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for landscaping business",
+    "page_type": "use_case",
+    "audience": "landscaping business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "hubspot vs jobber",
+    "page_type": "comparison",
+    "audience": "buyers comparing broad CRM vs field-service-first tool",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for pressure washing business",
+    "page_type": "use_case",
+    "audience": "pressure washing business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "is housecall pro worth it",
+    "page_type": "review",
+    "audience": "buyers evaluating Housecall Pro value",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "is jobber worth it",
+    "page_type": "review",
+    "audience": "buyers evaluating Jobber value",
+    "intent": "commercial"
   }
 ]
