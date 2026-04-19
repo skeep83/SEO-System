@@ -1,6 +1,6 @@
 <svg viewBox="0 0 640 320" role="img" aria-labelledby="title desc" xmlns="http://www.w3.org/2000/svg">
-  <title>Alternatives comparison illustration</title>
-  <desc>Abstract visual showing evaluation of alternatives to Jobber for small service teams.</desc>
+  <title>Jobber Alternatives illustration</title>
+  <desc>Contextual abstract illustration supporting the topic jobber alternatives.</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="1">
       <stop offset="0%" stop-color="#6b8cff" stop-opacity="0.16"/>

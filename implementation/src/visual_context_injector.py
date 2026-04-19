@@ -2,21 +2,20 @@ from __future__ import annotations
 
 from pathlib import Path
 
-TARGETS = {
-    'best-crm-for-small-service-business.html': ('assets/visuals/best-crm-for-small-service-business.svg', 'CRM buyer dashboard illustration'),
-    'housecall-pro-vs-jobber.html': ('assets/visuals/housecall-pro-vs-jobber.svg', 'Software comparison illustration'),
-    'jobber-alternatives.html': ('assets/visuals/jobber-alternatives.svg', 'Alternatives comparison illustration'),
-    'service-titan-alternatives-for-small-businesses.html': ('assets/visuals/service-titan-alternatives-for-small-businesses.svg', 'ServiceTitan alternatives illustration'),
-}
+
+def alt_for_slug(slug: str) -> str:
+    return slug.replace('-', ' ').title() + ' illustration'
 
 
 def main() -> None:
     site_dir = Path(__file__).resolve().parents[1] / 'output' / 'site'
     updated = 0
-    for filename, (src, alt) in TARGETS.items():
-        path = site_dir / filename
-        if not path.exists():
+    for path in site_dir.glob('*.html'):
+        if path.name == 'index.html':
             continue
+        slug = path.stem
+        src = f'assets/visuals/{slug}.svg'
+        alt = alt_for_slug(slug)
         text = path.read_text()
         if 'hero-visual' in text:
             continue

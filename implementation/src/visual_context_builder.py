@@ -2,7 +2,6 @@ from __future__ import annotations
 
 from pathlib import Path
 
-
 SVG_TEMPLATE = '''<svg viewBox="0 0 640 320" role="img" aria-labelledby="title desc" xmlns="http://www.w3.org/2000/svg">
   <title>{title}</title>
   <desc>{desc}</desc>
@@ -23,19 +22,23 @@ SVG_TEMPLATE = '''<svg viewBox="0 0 640 320" role="img" aria-labelledby="title d
   <rect x="78" y="202" width="144" height="16" rx="8" fill="#6b8cff" fill-opacity="0.18"/>
 </svg>'''
 
-PAGES = {
-    'best-crm-for-small-service-business': ('CRM buyer dashboard illustration', 'Abstract dashboard-style illustration representing software comparison for small service businesses.'),
-    'housecall-pro-vs-jobber': ('Software comparison illustration', 'Abstract comparison-style visual for evaluating Housecall Pro against Jobber.'),
-    'jobber-alternatives': ('Alternatives comparison illustration', 'Abstract visual showing evaluation of alternatives to Jobber for small service teams.'),
-    'service-titan-alternatives-for-small-businesses': ('ServiceTitan alternatives illustration', 'Abstract visual representing smaller-business alternatives to ServiceTitan.'),
-}
+
+def label_for_slug(slug: str) -> tuple[str, str]:
+    title = slug.replace('-', ' ').title() + ' illustration'
+    desc = f'Contextual abstract illustration supporting the topic {slug.replace('-', ' ')}.'
+    return title, desc
 
 
 def main() -> None:
-    assets_dir = Path(__file__).resolve().parents[1] / 'output' / 'site' / 'assets' / 'visuals'
+    site_dir = Path(__file__).resolve().parents[1] / 'output' / 'site'
+    assets_dir = site_dir / 'assets' / 'visuals'
     assets_dir.mkdir(parents=True, exist_ok=True)
     created = 0
-    for slug, (title, desc) in PAGES.items():
+    for html_file in site_dir.glob('*.html'):
+        slug = html_file.stem
+        if slug == 'index':
+            continue
+        title, desc = label_for_slug(slug)
         svg = SVG_TEMPLATE.format(title=title, desc=desc)
         (assets_dir / f'{slug}.svg').write_text(svg)
         created += 1
