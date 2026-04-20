@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#e9eef7">
   <meta name="description" content="This page is designed to help small service businesses compare CRM options without wasting time on generic software lists.">
-  <title>Best Crm For Appliance Repair Business | ServiceHub</title>
+  <title>Best Crm For Garage Door Business | ServiceHub</title>
   <style>
     :root {
       --bg: #e9eef7;
@@ -101,8 +101,6 @@
     gtag('js', new Date());
     gtag('config', 'G-7TVN7WV3M4');
   </script>
-<link rel="canonical" href="https://servicehub.md/best-crm-for-appliance-repair-business">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"ServiceHub","url":"https://servicehub.md"}</script>
 </head>
 <body><a href="#main-content" class="skip-link">Skip to content</a>
   <div class="shell">
@@ -120,7 +118,7 @@
     <section class="hero-shell">
       <div class="hero-copy">
         <div class="eyebrow">ServiceHub • 2026 buyer guide</div>
-        <h1>Best Crm For Appliance Repair Business</h1>
+        <h1>Best Crm For Garage Door Business</h1>
         <p class="hero-summary">This page is designed to help small service businesses compare CRM options without wasting time on generic software lists.</p>
         <div class="hero-actions">
           <a class="button button-primary" href="#offers">View offers</a>
@@ -132,7 +130,7 @@
         <div class="metric"><span>Site</span><strong>ServiceHub</strong></div>
         <div class="metric"><span>Audience</span><strong>Small service businesses</strong></div>
       </aside>
-      <div class="hero-visual panel panel-soft"><img src="assets/visuals/best-crm-for-appliance-repair-business.svg" alt="Best Crm For Appliance Repair Business illustration" style="width:100%;height:auto;border-radius:20px;display:block"></div>
+      <div class="hero-visual panel panel-soft"><img src="assets/visuals/best-crm-for-garage-door-business.svg" alt="Best Crm For Garage Door Business illustration" style="width:100%;height:auto;border-radius:20px;display:block"></div>
     </section>
     
     <div class="content-grid">
@@ -155,22 +153,5 @@
       <div><a href="/">Browse all guides</a></div>
     </footer>
   </div>
-
-<script>
-document.addEventListener('click', function (event) {
-  const link = event.target.closest('a');
-  if (!link) return;
-  const href = link.getAttribute('href') || '';
-  if (!href.startsWith('http')) return;
-  if (typeof gtag === 'function') {
-    gtag('event', 'affiliate_click', {
-      link_url: href,
-      link_text: (link.textContent || '').trim(),
-      page_path: window.location.pathname
-    });
-  }
-});
-</script>
-
 </body>
 </html>
