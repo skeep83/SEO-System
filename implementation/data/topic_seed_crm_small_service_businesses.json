@@ -148,5 +148,161 @@
     "page_type": "review",
     "audience": "buyers evaluating Jobber value",
     "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for locksmith business",
+    "page_type": "use_case",
+    "audience": "locksmith business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for junk removal business",
+    "page_type": "use_case",
+    "audience": "junk removal business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for moving companies",
+    "page_type": "use_case",
+    "audience": "moving company owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for painting contractors",
+    "page_type": "use_case",
+    "audience": "painting business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for pool service business",
+    "page_type": "use_case",
+    "audience": "pool service business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for window cleaning business",
+    "page_type": "use_case",
+    "audience": "window cleaning business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for lawn care business",
+    "page_type": "use_case",
+    "audience": "lawn care business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for restoration company",
+    "page_type": "use_case",
+    "audience": "restoration business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for flooring contractors",
+    "page_type": "use_case",
+    "audience": "flooring business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for auto detailing business",
+    "page_type": "use_case",
+    "audience": "auto detailing business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "fieldpulse vs jobber",
+    "page_type": "comparison",
+    "audience": "buyers comparing field service tools",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "workiz vs jobber",
+    "page_type": "comparison",
+    "audience": "buyers comparing dispatch platforms",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "servicetitan vs housecall pro",
+    "page_type": "comparison",
+    "audience": "service operators comparing larger field service platforms",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best field service management software for small business",
+    "page_type": "best_of",
+    "audience": "buyers comparing FSM tools",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best scheduling software for home service business",
+    "page_type": "best_of",
+    "audience": "service owners comparing scheduling tools",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best invoicing software for service business",
+    "page_type": "best_of",
+    "audience": "service businesses comparing invoicing tools",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm with sms for home service business",
+    "page_type": "best_of",
+    "audience": "buyers wanting customer communication tools",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for handyman business",
+    "page_type": "use_case",
+    "audience": "handyman business owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for garage door repair business",
+    "page_type": "use_case",
+    "audience": "garage door repair operators",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "jobber vs housecall pro for plumbers",
+    "page_type": "comparison",
+    "audience": "plumbing business owners comparing field software",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for hvac small business",
+    "page_type": "use_case",
+    "audience": "small hvac operators",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best dispatch software for pest control",
+    "page_type": "best_of",
+    "audience": "pest control operators comparing dispatch tools",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for maid service",
+    "page_type": "use_case",
+    "audience": "maid service owners",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "housecall pro vs servicetitan pricing",
+    "page_type": "comparison",
+    "audience": "buyers comparing field platform pricing",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "jobber vs workiz pricing",
+    "page_type": "comparison",
+    "audience": "buyers comparing pricing and value",
+    "intent": "commercial"
+  },
+  {
+    "keyword": "best crm for contractors",
+    "page_type": "best_of",
+    "audience": "small contractor businesses",
+    "intent": "commercial"
   }
 ]

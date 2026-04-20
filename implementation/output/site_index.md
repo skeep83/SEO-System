@@ -11,3 +11,43 @@
 - [Housecall Pro Pricing Vs Jobber Pricing: Which Is Better?](content/housecall-pro-pricing-vs-jobber-pricing.md) — comparison
 - [Service Titan Alternatives to Consider For Small Businesses](content/service-titan-alternatives-for-small-businesses.md) — alternatives
 - [Best Dispatch Software For Small Service Business in 2026](content/best-dispatch-software-for-small-service-business.md) — best_of
+- [Best Crm For Hvac Companies](content/best-crm-for-hvac-companies.md) — use_case
+- [Best Crm For Pest Control Business](content/best-crm-for-pest-control-business.md) — use_case
+- [Jobber Pricing Review](content/jobber-pricing-review.md) — pricing
+- [Housecall Pro Review For Small Business](content/housecall-pro-review-for-small-business.md) — review
+- [Best Crm For Appliance Repair Business](content/best-crm-for-appliance-repair-business.md) — use_case
+- [Hubspot For Home Service Business](content/hubspot-for-home-service-business.md) — use_case
+- [Jobber Vs Service Titan: Which Is Better?](content/jobber-vs-service-titan.md) — comparison
+- [Housecall Pro Alternatives to Consider](content/housecall-pro-alternatives.md) — alternatives
+- [Best Crm For Garage Door Business](content/best-crm-for-garage-door-business.md) — use_case
+- [Best Crm For Landscaping Business](content/best-crm-for-landscaping-business.md) — use_case
+- [Hubspot Vs Jobber: Which Is Better?](content/hubspot-vs-jobber.md) — comparison
+- [Best Crm For Pressure Washing Business](content/best-crm-for-pressure-washing-business.md) — use_case
+- [Is Housecall Pro Worth It](content/is-housecall-pro-worth-it.md) — review
+- [Is Jobber Worth It](content/is-jobber-worth-it.md) — review
+- [Best Crm For Locksmith Business](content/best-crm-for-locksmith-business.md) — use_case
+- [Best Crm For Junk Removal Business](content/best-crm-for-junk-removal-business.md) — use_case
+- [Best Crm For Moving Companies](content/best-crm-for-moving-companies.md) — use_case
+- [Best Crm For Painting Contractors](content/best-crm-for-painting-contractors.md) — use_case
+- [Best Crm For Pool Service Business](content/best-crm-for-pool-service-business.md) — use_case
+- [Best Crm For Window Cleaning Business](content/best-crm-for-window-cleaning-business.md) — use_case
+- [Best Crm For Lawn Care Business](content/best-crm-for-lawn-care-business.md) — use_case
+- [Best Crm For Restoration Company](content/best-crm-for-restoration-company.md) — use_case
+- [Best Crm For Flooring Contractors](content/best-crm-for-flooring-contractors.md) — use_case
+- [Best Crm For Auto Detailing Business](content/best-crm-for-auto-detailing-business.md) — use_case
+- [Fieldpulse Vs Jobber: Which Is Better?](content/fieldpulse-vs-jobber.md) — comparison
+- [Workiz Vs Jobber: Which Is Better?](content/workiz-vs-jobber.md) — comparison
+- [Servicetitan Vs Housecall Pro: Which Is Better?](content/servicetitan-vs-housecall-pro.md) — comparison
+- [Best Field Service Management Software For Small Business in 2026](content/best-field-service-management-software-for-small-business.md) — best_of
+- [Best Scheduling Software For Home Service Business in 2026](content/best-scheduling-software-for-home-service-business.md) — best_of
+- [Best Invoicing Software For Service Business in 2026](content/best-invoicing-software-for-service-business.md) — best_of
+- [Best Crm With Sms For Home Service Business in 2026](content/best-crm-with-sms-for-home-service-business.md) — best_of
+- [Best Crm For Handyman Business](content/best-crm-for-handyman-business.md) — use_case
+- [Best Crm For Garage Door Repair Business](content/best-crm-for-garage-door-repair-business.md) — use_case
+- [Jobber Vs Housecall Pro For Plumbers: Which Is Better?](content/jobber-vs-housecall-pro-for-plumbers.md) — comparison
+- [Best Crm For Hvac Small Business](content/best-crm-for-hvac-small-business.md) — use_case
+- [Best Dispatch Software For Pest Control in 2026](content/best-dispatch-software-for-pest-control.md) — best_of
+- [Best Crm For Maid Service](content/best-crm-for-maid-service.md) — use_case
+- [Housecall Pro Vs Servicetitan Pricing: Which Is Better?](content/housecall-pro-vs-servicetitan-pricing.md) — comparison
+- [Jobber Vs Workiz Pricing: Which Is Better?](content/jobber-vs-workiz-pricing.md) — comparison
+- [Best Crm For Contractors in 2026](content/best-crm-for-contractors.md) — best_of

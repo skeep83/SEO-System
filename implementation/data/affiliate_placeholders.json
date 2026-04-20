@@ -33,5 +33,110 @@
     "product": "Pipedrive",
     "placeholder_url": "https://www.pipedrive.com/",
     "cta": "Explore Pipedrive"
+  },
+  {
+    "product": "FieldPulse",
+    "placeholder_url": "https://fieldpulse.com/",
+    "cta": "Explore FieldPulse"
+  },
+  {
+    "product": "Workiz",
+    "placeholder_url": "https://www.workiz.com/",
+    "cta": "Explore Workiz"
+  },
+  {
+    "product": "Service Fusion",
+    "placeholder_url": "https://www.servicefusion.com/",
+    "cta": "Explore Service Fusion"
+  },
+  {
+    "product": "Kickserv",
+    "placeholder_url": "https://www.kickserv.com/",
+    "cta": "Explore Kickserv"
+  },
+  {
+    "product": "Freshsales",
+    "placeholder_url": "https://www.freshworks.com/crm/",
+    "cta": "Explore Freshsales"
+  },
+  {
+    "product": "Keap",
+    "placeholder_url": "https://keap.com/",
+    "cta": "Explore Keap"
+  },
+  {
+    "product": "Insightly",
+    "placeholder_url": "https://www.insightly.com/",
+    "cta": "Explore Insightly"
+  },
+  {
+    "product": "Copper",
+    "placeholder_url": "https://www.copper.com/",
+    "cta": "Explore Copper"
+  },
+  {
+    "product": "Calendly",
+    "placeholder_url": "https://calendly.com/",
+    "cta": "Try Calendly"
+  },
+  {
+    "product": "Acuity Scheduling",
+    "placeholder_url": "https://acuityscheduling.com/",
+    "cta": "Try Acuity Scheduling"
+  },
+  {
+    "product": "QuickBooks",
+    "placeholder_url": "https://quickbooks.intuit.com/",
+    "cta": "Explore QuickBooks"
+  },
+  {
+    "product": "FreshBooks",
+    "placeholder_url": "https://www.freshbooks.com/",
+    "cta": "Explore FreshBooks"
+  },
+  {
+    "product": "Xero",
+    "placeholder_url": "https://www.xero.com/",
+    "cta": "Explore Xero"
+  },
+  {
+    "product": "Stripe",
+    "placeholder_url": "https://stripe.com/",
+    "cta": "Explore Stripe"
+  },
+  {
+    "product": "Square",
+    "placeholder_url": "https://squareup.com/",
+    "cta": "Explore Square"
+  },
+  {
+    "product": "Tidio",
+    "placeholder_url": "https://www.tidio.com/",
+    "cta": "Try Tidio"
+  },
+  {
+    "product": "LiveChat",
+    "placeholder_url": "https://www.livechat.com/",
+    "cta": "Try LiveChat"
+  },
+  {
+    "product": "Podium",
+    "placeholder_url": "https://www.podium.com/",
+    "cta": "Explore Podium"
+  },
+  {
+    "product": "Birdeye",
+    "placeholder_url": "https://birdeye.com/",
+    "cta": "Explore Birdeye"
+  },
+  {
+    "product": "Mailchimp",
+    "placeholder_url": "https://mailchimp.com/",
+    "cta": "Try Mailchimp"
+  },
+  {
+    "product": "ActiveCampaign",
+    "placeholder_url": "https://www.activecampaign.com/",
+    "cta": "Explore ActiveCampaign"
   }
 ]

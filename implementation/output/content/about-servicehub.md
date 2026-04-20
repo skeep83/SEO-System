@@ -21,16 +21,16 @@ Some links on this site may be affiliate links. That should not change the recom
 - Eliminate options that are too complex for your current team size.
 
 ## Related guides
-- [Compare Jobber and Housecall Pro](housecall-pro-vs-jobber.html)
-- [See Jobber alternatives](jobber-alternatives.html)
-- [Understand CRM for plumbers](crm-for-plumbers.html)
-- [Understand CRM for electricians](crm-for-electricians.html)
+- [Compare Jobber and Housecall Pro](/housecall-pro-vs-jobber)
+- [See Jobber alternatives](/jobber-alternatives)
+- [Understand CRM for plumbers](/crm-for-plumbers)
+- [Understand CRM for electricians](/crm-for-electricians)
 
 ## Site navigation
-- [Home](index.html)
-- [About ServiceHub](about-servicehub.html)
-- [Editorial Policy](editorial-policy.html)
-- [Contact](contact.html)
+- [Home](/)
+- [About ServiceHub](/about-servicehub)
+- [Editorial Policy](/editorial-policy)
+- [Contact](/contact)
 
 ## Offers
 
