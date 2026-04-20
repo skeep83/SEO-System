@@ -109,6 +109,8 @@
     gtag('js', new Date());
     gtag('config', 'G-7TVN7WV3M4');
   </script>
+<link rel="canonical" href="https://servicehub.md/best-crm-for-auto-detailing-business">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"ServiceHub","url":"https://servicehub.md"}</script>
 </head>
 <body><a href="#main-content" class="skip-link">Skip to content</a>
   <div class="shell">
@@ -161,5 +163,22 @@
       <div><a href="/">Browse all guides</a></div>
     </footer>
   </div>
+
+<script>
+document.addEventListener('click', function (event) {
+  const link = event.target.closest('a');
+  if (!link) return;
+  const href = link.getAttribute('href') || '';
+  if (!href.startsWith('http')) return;
+  if (typeof gtag === 'function') {
+    gtag('event', 'affiliate_click', {
+      link_url: href,
+      link_text: (link.textContent || '').trim(),
+      page_path: window.location.pathname
+    });
+  }
+});
+</script>
+
 </body>
 </html>
