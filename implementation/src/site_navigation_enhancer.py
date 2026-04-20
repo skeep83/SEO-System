@@ -4,10 +4,10 @@ from pathlib import Path
 
 BLOCK = """
 ## Site navigation
-- [Home](index.html)
-- [About ServiceHub](about-servicehub.html)
-- [Editorial Policy](editorial-policy.html)
-- [Contact](contact.html)
+- [Home](/)
+- [About ServiceHub](/about-servicehub)
+- [Editorial Policy](/editorial-policy)
+- [Contact](/contact)
 """
 
 

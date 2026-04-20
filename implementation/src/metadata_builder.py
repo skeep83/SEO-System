@@ -16,7 +16,7 @@ def main() -> None:
                 "title": page["title"],
                 "meta_title": page["title"],
                 "meta_description": page["problem_statement"][:155],
-                "canonical_url": f"{SITE_URL}/{page['slug']}.html",
+                "canonical_url": f"{SITE_URL}/{page['slug']}",
                 "robots": "index,follow",
             }
         )

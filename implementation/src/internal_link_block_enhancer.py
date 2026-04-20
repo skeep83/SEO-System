@@ -4,10 +4,10 @@ from pathlib import Path
 
 BLOCK = """
 ## Related guides
-- [Compare Jobber and Housecall Pro](housecall-pro-vs-jobber.html)
-- [See Jobber alternatives](jobber-alternatives.html)
-- [Understand CRM for plumbers](crm-for-plumbers.html)
-- [Understand CRM for electricians](crm-for-electricians.html)
+- [Compare Jobber and Housecall Pro](/housecall-pro-vs-jobber)
+- [See Jobber alternatives](/jobber-alternatives)
+- [Understand CRM for plumbers](/crm-for-plumbers)
+- [Understand CRM for electricians](/crm-for-electricians)
 """
 
 

@@ -53,10 +53,18 @@ def ga4_snippet() -> str:
   </script>"""
 
 
+def normalize_internal_href(href: str) -> str:
+    if href == "index.html":
+        return "/"
+    if href.endswith(".html"):
+        return "/" + href[:-5]
+    return href
+
+
 def render_inline(text: str) -> str:
     escaped = html.escape(text)
     escaped = re.sub(r"\[(.*?)\]\((https?://[^\)]+)\)", r'<a href="\2" target="_blank" rel="nofollow noopener">\1</a>', escaped)
-    escaped = re.sub(r"\[(.*?)\]\(([^\)]+\.html)\)", r'<a href="\2">\1</a>', escaped)
+    escaped = re.sub(r"\[(.*?)\]\(([^\)]+\.html)\)", lambda m: f'<a href="{normalize_internal_href(m.group(2))}">{m.group(1)}</a>', escaped)
     return escaped
 
 
@@ -148,7 +156,7 @@ def render_page(title: str, sections: list[tuple[str, list[str]]]) -> str:
         <p class=\"hero-summary\">{render_inline(summary)}</p>
         <div class=\"hero-actions\">
           <a class=\"button button-primary\" href=\"#offers\">View offers</a>
-          <a class=\"button button-secondary\" href=\"index.html\">Explore guides</a>
+          <a class=\"button button-secondary\" href=\"/\">Explore guides</a>
         </div>
       </div>
       <aside class=\"hero-card\">
@@ -270,7 +278,7 @@ def render_page(title: str, sections: list[tuple[str, list[str]]]) -> str:
         <span>{html.escape(SITE_TAGLINE)}</span>
       </div>
       <nav class="topnav">
-        <a href="index.html">Guides</a>
+        <a href="/">Guides</a>
         <a href="{html.escape(SITE_URL)}">Live site</a>
       </nav>
     </header>
@@ -292,7 +300,7 @@ def render_page(title: str, sections: list[tuple[str, list[str]]]) -> str:
     </div>
     <footer class="footer-card">
       <div>Built for small service business software research.</div>
-      <div><a href="index.html">Browse all guides</a></div>
+      <div><a href="/">Browse all guides</a></div>
     </footer>
   </div>
 </body>
@@ -307,13 +315,13 @@ def render_index(pages: list[tuple[str, str]]) -> str:
 
     def card(slug: str, label: str | None = None) -> str:
         shown = label or title_map.get(slug, slug_to_label(slug))
-        return f"<a class='index-card' href='{slug}.html'><strong>{html.escape(shown)}</strong><p>{html.escape(slug_to_label(slug))}</p></a>"
+        return f"<a class='index-card' href='/{slug}'><strong>{html.escape(shown)}</strong><p>{html.escape(slug_to_label(slug))}</p></a>"
 
     featured = ''.join(card(item['slug'], item.get('label')) for item in curated.get('featured_money_pages', []))
     trust = ''.join(card(item['slug'], item.get('label')) for item in curated.get('trust_pages', []))
     clusters = []
     for cluster in curated.get('clusters', []):
-        items = ''.join(f"<li><a href='{slug}.html'>{html.escape(title_map.get(slug, slug_to_label(slug)))}</a></li>" for slug in cluster.get('items', []))
+        items = ''.join(f"<li><a href='/{slug}'>{html.escape(title_map.get(slug, slug_to_label(slug)))}</a></li>" for slug in cluster.get('items', []))
         clusters.append(f"<div class='cluster-card'><strong>{html.escape(cluster['name'])}</strong><ul>{items}</ul></div>")
     latest = ''.join(card(slug, title) for slug, title in pages[:12])
     return f"""<!doctype html>
