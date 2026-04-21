@@ -48,14 +48,6 @@ Decide whether you need simpler adoption or deeper operational control before ke
 - Complexity: low
 - Verdict: Best starting point for many small service businesses that want estimates, scheduling, invoicing, and customer follow-up without heavy setup.
 
-### Housecall Pro scorecard
-- Best fit: growing service teams needing stronger communication and dispatch coordination
-- Adoption score: 8/10
-- Workflow depth score: 8/10
-- Marketing score: 4/10
-- Complexity: medium
-- Verdict: Strong option when communication, payments, and dispatch feel central to the business model.
-
 ### ServiceTitan scorecard
 - Best fit: larger service operations with heavier process complexity
 - Adoption score: 4/10
@@ -63,6 +55,14 @@ Decide whether you need simpler adoption or deeper operational control before ke
 - Marketing score: 5/10
 - Complexity: high
 - Verdict: Powerful, but usually too heavy for smaller operators unless workflow depth clearly outweighs complexity cost.
+
+### Housecall Pro scorecard
+- Best fit: growing service teams needing stronger communication and dispatch coordination
+- Adoption score: 8/10
+- Workflow depth score: 8/10
+- Marketing score: 4/10
+- Complexity: medium
+- Verdict: Strong option when communication, payments, and dispatch feel central to the business model.
 
 ### HubSpot scorecard
 - Best fit: service businesses valuing CRM pipeline and marketing flexibility
@@ -128,10 +128,10 @@ This page should be reviewed before publication, especially if it carries affili
 
 ## Offers
 
-- [Try Jobber](https://example.com/aff/jobber)
-- [Try Housecall Pro](https://example.com/aff/housecall-pro)
-- [Request ServiceTitan demo](https://example.com/aff/servicetitan)
-- [Try HubSpot](https://sovrn.co/17bz38j)
+- [Try Jobber if faster adoption and easier day-to-day execution matter most](https://example.com/aff/jobber)
+- [Request a ServiceTitan demo only if your workflow depth clearly justifies the extra complexity](https://example.com/aff/servicetitan)
+- [Try Housecall Pro if you want a middle-ground option with stronger communication and dispatch](https://example.com/aff/housecall-pro)
+- [Try HubSpot only if your real issue is CRM and pipeline management, not field operations](https://sovrn.co/17bz38j)
 
 ## Get help choosing
 If you want help narrowing the shortlist for your business, use a simple lead form or contact flow here later.

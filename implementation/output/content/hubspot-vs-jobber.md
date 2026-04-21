@@ -48,6 +48,14 @@ Choose whether your main bottleneck is field execution or sales pipeline before 
 - Complexity: low
 - Verdict: Best starting point for many small service businesses that want estimates, scheduling, invoicing, and customer follow-up without heavy setup.
 
+### HubSpot scorecard
+- Best fit: service businesses valuing CRM pipeline and marketing flexibility
+- Adoption score: 8/10
+- Workflow depth score: 4/10
+- Marketing score: 10/10
+- Complexity: medium
+- Verdict: Best when pipeline visibility, automation, and marketing matter more than field-service-specific operations.
+
 ### Housecall Pro scorecard
 - Best fit: growing service teams needing stronger communication and dispatch coordination
 - Adoption score: 8/10
@@ -63,14 +71,6 @@ Choose whether your main bottleneck is field execution or sales pipeline before 
 - Marketing score: 5/10
 - Complexity: high
 - Verdict: Powerful, but usually too heavy for smaller operators unless workflow depth clearly outweighs complexity cost.
-
-### HubSpot scorecard
-- Best fit: service businesses valuing CRM pipeline and marketing flexibility
-- Adoption score: 8/10
-- Workflow depth score: 4/10
-- Marketing score: 10/10
-- Complexity: medium
-- Verdict: Best when pipeline visibility, automation, and marketing matter more than field-service-specific operations.
 
 ## Verdict snapshot
 - Jobber: better fit when the business runs on quoting, scheduling, dispatch, and invoicing.
@@ -128,10 +128,10 @@ This page should be reviewed before publication, especially if it carries affili
 
 ## Offers
 
-- [Try Jobber](https://example.com/aff/jobber)
-- [Try Housecall Pro](https://example.com/aff/housecall-pro)
-- [Request ServiceTitan demo](https://example.com/aff/servicetitan)
-- [Try HubSpot](https://sovrn.co/17bz38j)
+- [Try Jobber if field execution is the real bottleneck in the business](https://example.com/aff/jobber)
+- [Try HubSpot if lead management and marketing automation matter more than technician workflow](https://sovrn.co/17bz38j)
+- [Try Housecall Pro if you want another field-service-first option with stronger communication flow](https://example.com/aff/housecall-pro)
+- [Request a ServiceTitan demo only if you already know lighter field tools are not enough](https://example.com/aff/servicetitan)
 
 ## Get help choosing
 If you want help narrowing the shortlist for your business, use a simple lead form or contact flow here later.

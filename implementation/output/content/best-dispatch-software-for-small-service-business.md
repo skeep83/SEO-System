@@ -143,10 +143,10 @@ This page should be reviewed before publication, especially if it carries affili
 
 ## Offers
 
-- [Try Jobber](https://example.com/aff/jobber)
-- [Try Housecall Pro](https://example.com/aff/housecall-pro)
-- [Request ServiceTitan demo](https://example.com/aff/servicetitan)
-- [Try HubSpot](https://sovrn.co/17bz38j)
+- [Try Jobber if you want the clearest all-round FSM fit for a small team](https://example.com/aff/jobber)
+- [Try Housecall Pro if dispatch coordination, payments, and communication matter more](https://example.com/aff/housecall-pro)
+- [Request a ServiceTitan demo only if your operation is already too complex for lighter tools](https://example.com/aff/servicetitan)
+- [Try HubSpot only if sales pipeline and marketing matter more than field workflow](https://sovrn.co/17bz38j)
 
 ## Get help choosing
 If you want help narrowing the shortlist for your business, use a simple lead form or contact flow here later.

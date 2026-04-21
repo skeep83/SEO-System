@@ -37,14 +37,6 @@ Focus on the alternatives that fix the operational mismatch without adding new c
 
 ## Product scorecards
 
-### Jobber scorecard
-- Best fit: small field-service teams needing simple operations coverage
-- Adoption score: 9/10
-- Workflow depth score: 7/10
-- Marketing score: 4/10
-- Complexity: low
-- Verdict: Best starting point for many small service businesses that want estimates, scheduling, invoicing, and customer follow-up without heavy setup.
-
 ### Housecall Pro scorecard
 - Best fit: growing service teams needing stronger communication and dispatch coordination
 - Adoption score: 8/10
@@ -52,6 +44,14 @@ Focus on the alternatives that fix the operational mismatch without adding new c
 - Marketing score: 4/10
 - Complexity: medium
 - Verdict: Strong option when communication, payments, and dispatch feel central to the business model.
+
+### Jobber scorecard
+- Best fit: small field-service teams needing simple operations coverage
+- Adoption score: 9/10
+- Workflow depth score: 7/10
+- Marketing score: 4/10
+- Complexity: low
+- Verdict: Best starting point for many small service businesses that want estimates, scheduling, invoicing, and customer follow-up without heavy setup.
 
 ### ServiceTitan scorecard
 - Best fit: larger service operations with heavier process complexity
@@ -122,10 +122,10 @@ Focus on the alternatives that fix the operational mismatch without adding new c
 
 ## Offers
 
-- [Try Jobber](https://example.com/aff/jobber)
-- [Try Housecall Pro](https://example.com/aff/housecall-pro)
-- [Request ServiceTitan demo](https://example.com/aff/servicetitan)
-- [Try HubSpot](https://sovrn.co/17bz38j)
+- [Try Housecall Pro if you want a stronger workflow alternative with better communication and dispatch flow](https://example.com/aff/housecall-pro)
+- [Stay with or retry Jobber only if the workflow still mostly fits and the pain is minor](https://example.com/aff/jobber)
+- [Request a ServiceTitan demo only if the pain comes from outgrowing simpler tools entirely](https://example.com/aff/servicetitan)
+- [Try HubSpot only if the real mismatch is around CRM and automation rather than service workflow](https://sovrn.co/17bz38j)
 
 ## Need help choosing
 If your shortlist is still unclear, use the contact path on ServiceHub once the help workflow is fully enabled.
