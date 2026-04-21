@@ -1,27 +1,27 @@
-# affiliate-discovery
+# Affiliate Discovery Module
 
-A module for discovering, ranking, and tracking affiliate programs for products mentioned on ServiceHub.
+Tracks monetization opportunities for ServiceHub and related SEO assets.
 
-## Run locally
+## Current operating rule
 
-```bash
-cd modules/affiliate-discovery
-python3 -m venv .venv
-. .venv/bin/activate
-pip install fastapi uvicorn jinja2 python-multipart
-uvicorn src.app:app --host 0.0.0.0 --port 8790
-```
+Do not treat a vendor as monetized just because a commercial page links to the vendor site.
 
-## Current features
-- JSON registry
-- dashboard UI
-- manual status updates
-- seeded discovery worker
+Use statuses deliberately:
 
-## Worker
-Run the seed discovery worker:
+- `link_live` = a tracked/monetized link is already live in production
+- `applied` = partner application started, but no approved live tracking URL stored yet
+- `research_started` = still validating whether a usable program exists
 
-```bash
-. .venv/bin/activate
-python src/discovery_worker.py
-```
+## Current practical state
+
+- **HubSpot** is the only clearly confirmed live tracked link in the current stack (`sovrn.co/17bz38j`).
+- **Jobber** and **Housecall Pro** are still top monetization priorities, but should be treated as pending until a confirmed approved URL is stored.
+- FSM/invoicing comparison pages are now commercially stronger, so the next real monetization win is replacing remaining placeholder links on the highest-intent pages with approved tracked destinations.
+
+## Priority order for next replacements
+
+1. Jobber
+2. Housecall Pro
+3. QuickBooks
+4. FieldPulse / Workiz
+5. Secondary CRM and FSM alternatives
