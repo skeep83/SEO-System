@@ -27,9 +27,9 @@
     "program_type": "affiliate_or_referral",
     "network": "manual_research",
     "program_url": "https://www.google.com/search?q=Housecall+Pro+affiliate+program",
-    "status": "research_started",
+    "status": "applied",
     "fit_score": 9,
-    "notes": "Strong commercial fit. Still no confirmed approved tracking URL stored locally. Priority follow-up target because it appears on many FSM and replacement pages.",
+    "notes": "Strong commercial fit. Still no confirmed approved tracking URL stored locally. Priority follow-up target because it appears on many FSM and replacement pages.\r\n\r\nhttps://publisherprobeta.flexoffers.com/\r\nlogin skeep83@gmail.com",
     "target_pages": [
       "best-crm-for-small-service-business",
       "housecall-pro-vs-jobber",
@@ -50,9 +50,9 @@
     "program_type": "affiliate",
     "network": "sovrn",
     "program_url": "https://sovrn.co/17bz38j",
-    "status": "link_live",
+    "status": "to_research",
     "fit_score": 8,
-    "notes": "Confirmed live monetized link already in production via Sovrn. This is currently the only clearly active tracked commercial URL in the site stack.",
+    "notes": "Confirmed live monetized link already in production via Sovrn. This is currently the only clearly active tracked commercial URL in the site stack.\r\n\r\nhttps://hub.skimlinks.com/",
     "target_pages": [
       "best-crm-for-small-service-business",
       "hubspot-vs-jobber",
@@ -125,20 +125,19 @@
   },
   {
     "product": "Service Fusion",
-    "program_type": "affiliate_or_partner",
-    "network": "manual_research",
-    "program_url": "https://www.google.com/search?q=Service+Fusion+affiliate+program",
-    "status": "research_started",
+    "program_type": "referral",
+    "network": "servicefusion_direct",
+    "program_url": "https://referrals.servicefusion.com/l/1ALEXINDIGO93/",
+    "status": "link_live",
     "fit_score": 7,
-    "notes": "Worth testing as an alternative in FSM comparisons. No live partner URL yet.",
+    "notes": "Confirmed live referral destination provided. Usable now on FSM and alternatives pages.",
     "target_pages": [
       "best-field-service-management-software-for-small-business",
       "service-titan-alternatives-for-small-businesses"
     ],
     "candidate_sources": [
-      "https://www.google.com/search?q=Service+Fusion+affiliate+program",
-      "https://www.bing.com/search?q=Service+Fusion+affiliate+program",
-      "https://duckduckgo.com/?q=Service+Fusion+affiliate+program"
+      "https://referrals.servicefusion.com/",
+      "https://referrals.servicefusion.com/l/1ALEXINDIGO93/"
     ]
   },
   {
