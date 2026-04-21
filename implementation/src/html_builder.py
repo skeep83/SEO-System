@@ -9,6 +9,14 @@ from analytics_settings import GA4_MEASUREMENT_ID
 from site_settings import SITE_NAME, SITE_TAGLINE, SITE_URL
 
 
+def meta_description(text: str, fallback: str) -> str:
+    source = re.sub(r"\s+", " ", (text or fallback or "")).strip()
+    if len(source) <= 155:
+        return source
+    shortened = source[:152].rsplit(" ", 1)[0].rstrip(" ,.;:-")
+    return shortened + "..."
+
+
 def parse_markdown_sections(text: str) -> tuple[str, list[tuple[str, list[str]]]]:
     lines = text.splitlines()
     title = "Untitled"
@@ -174,13 +182,14 @@ def render_page(title: str, sections: list[tuple[str, list[str]]]) -> str:
             section_html = section_html.replace("<section", "<section id='offers'", 1)
         rendered_sections.append(section_html)
 
+    page_description = meta_description(summary, SITE_TAGLINE)
     return f"""<!doctype html>
 <html lang=\"en\">
 <head>
   <meta charset=\"utf-8\">
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
   <meta name=\"theme-color\" content=\"#e9eef7\">
-  <meta name=\"description\" content=\"{html.escape(summary or SITE_TAGLINE)}\">
+  <meta name=\"description\" content=\"{html.escape(page_description)}\">
   <title>{html.escape(title)} | {html.escape(SITE_NAME)}</title>
   <style>
     :root {{
@@ -324,12 +333,17 @@ def render_index(pages: list[tuple[str, str]]) -> str:
         items = ''.join(f"<li><a href='/{slug}'>{html.escape(title_map.get(slug, slug_to_label(slug)))}</a></li>" for slug in cluster.get('items', []))
         clusters.append(f"<div class='cluster-card'><strong>{html.escape(cluster['name'])}</strong><ul>{items}</ul></div>")
     latest = ''.join(card(slug, title) for slug, title in pages[:12])
+    homepage_description = meta_description(
+        'Compare CRM, field service, scheduling, dispatch, and invoicing software for small service businesses with clear buyer guides and alternatives.',
+        SITE_TAGLINE,
+    )
     return f"""<!doctype html>
 <html lang=\"en\">
 <head>
   <meta charset=\"utf-8\">
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
-  <title>{html.escape(SITE_NAME)}</title>
+  <meta name=\"description\" content=\"{html.escape(homepage_description)}\">
+  <title>Best CRM and Software for Small Service Businesses | {html.escape(SITE_NAME)}</title>
   <style>
     body {{ margin:0; font-family: Inter, ui-sans-serif, system-ui, sans-serif; background: linear-gradient(180deg, #f3f6fb, #e8edf6); color:#152033; }}
     .shell {{ max-width: 1120px; margin:0 auto; padding: 28px 18px 60px; }}
