@@ -87,10 +87,10 @@ Compare the tools that keep invoicing connected to estimates, jobs, and payments
 - Verdict: Best when pipeline visibility, automation, and marketing matter more than field-service-specific operations.
 
 ## Verdict snapshot
-- Jobber: strongest fit for smaller field-service teams that want simplicity and operational coverage.
-- Housecall Pro: strong choice when communication, dispatch coordination, and payments matter more.
-- ServiceTitan: heavier platform, usually better only if operations are already more complex.
-- HubSpot: better when pipeline management and marketing matter more than technician workflows.
+- Jobber: strongest fit when invoicing needs to stay tied to jobs, estimates, and customer records.
+- Housecall Pro: strong choice when payments and customer communication need to stay tightly connected to field workflow.
+- ServiceTitan: more software than most small teams need for invoicing unless the operation is already much larger.
+- HubSpot: poor primary fit for invoicing-first buyers unless revenue pipeline is the bigger concern.
 
 ## Recommended products
 ### Jobber

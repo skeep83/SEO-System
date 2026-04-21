@@ -70,10 +70,10 @@ Focus on the alternatives that fix the operational mismatch without adding new c
 - Verdict: Best when pipeline visibility, automation, and marketing matter more than field-service-specific operations.
 
 ## Verdict snapshot
-- Jobber: strongest fit for smaller field-service teams that want simplicity and operational coverage.
-- Housecall Pro: strong choice when communication, dispatch coordination, and payments matter more.
-- ServiceTitan: heavier platform, usually better only if operations are already more complex.
-- HubSpot: better when pipeline management and marketing matter more than technician workflows.
+- Jobber: keep it if the workflow still fits and the pain is minor.
+- Housecall Pro: stronger alternative when communication, dispatch, and payments need to feel more connected.
+- ServiceTitan: not a default alternative for small teams unless the pain comes from outgrowing simpler tools.
+- HubSpot: only makes sense if the real pain is around pipeline and automation instead of field workflow.
 
 ## Recommended products
 ### Jobber
