@@ -2,6 +2,7 @@
 title: "Best Crm For Handyman Business"
 slug: "best-crm-for-handyman-business"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for handyman business"
 search_intent: "commercial"
 audience: "handyman business owners"

@@ -2,6 +2,7 @@
 title: "Best Crm For Garage Door Repair Business"
 slug: "best-crm-for-garage-door-repair-business"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for garage door repair business"
 search_intent: "commercial"
 audience: "garage door repair operators"

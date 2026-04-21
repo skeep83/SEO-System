@@ -2,6 +2,7 @@
 title: "Housecall Pro Review For Small Business"
 slug: "housecall-pro-review-for-small-business"
 page_type: "review"
+page_subtype: "general"
 primary_keyword: "housecall pro review for small business"
 search_intent: "commercial"
 audience: "small service teams evaluating Housecall Pro"

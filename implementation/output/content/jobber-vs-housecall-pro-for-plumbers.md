@@ -2,6 +2,7 @@
 title: "Jobber Vs Housecall Pro For Plumbers: Which Is Better?"
 slug: "jobber-vs-housecall-pro-for-plumbers"
 page_type: "comparison"
+page_subtype: "peer_fsm"
 primary_keyword: "jobber vs housecall pro for plumbers"
 search_intent: "commercial"
 audience: "plumbing business owners comparing field software"

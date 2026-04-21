@@ -2,6 +2,7 @@
 title: "Workiz Vs Jobber: Which Is Better?"
 slug: "workiz-vs-jobber"
 page_type: "comparison"
+page_subtype: "peer_fsm"
 primary_keyword: "workiz vs jobber"
 search_intent: "commercial"
 audience: "buyers comparing dispatch platforms"

@@ -2,6 +2,7 @@
 title: "Housecall Pro Pricing Vs Jobber Pricing: Which Is Better?"
 slug: "housecall-pro-pricing-vs-jobber-pricing"
 page_type: "comparison"
+page_subtype: "peer_fsm"
 primary_keyword: "housecall pro pricing vs jobber pricing"
 search_intent: "commercial"
 audience: "buyers comparing cost and fit"

@@ -2,6 +2,7 @@
 title: "Best Crm For Auto Detailing Business"
 slug: "best-crm-for-auto-detailing-business"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for auto detailing business"
 search_intent: "commercial"
 audience: "auto detailing business owners"

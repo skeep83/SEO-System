@@ -2,6 +2,7 @@
 title: "Best Crm For Pest Control Business"
 slug: "best-crm-for-pest-control-business"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for pest control business"
 search_intent: "commercial"
 audience: "pest control business owners"

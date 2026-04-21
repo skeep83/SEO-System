@@ -2,6 +2,7 @@
 title: "What Is A Crm For Home Service Businesses"
 slug: "what-is-a-crm-for-home-service-businesses"
 page_type: "faq"
+page_subtype: "general"
 primary_keyword: "what is a crm for home service businesses"
 search_intent: "informational"
 audience: "small business owners learning the category"

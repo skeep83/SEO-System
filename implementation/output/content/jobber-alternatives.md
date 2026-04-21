@@ -2,6 +2,7 @@
 title: "Jobber Alternatives to Consider"
 slug: "jobber-alternatives"
 page_type: "alternatives"
+page_subtype: "workflow_pain"
 primary_keyword: "jobber alternatives"
 search_intent: "commercial"
 audience: "service teams seeking alternatives"

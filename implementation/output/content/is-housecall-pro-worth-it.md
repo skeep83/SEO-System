@@ -2,6 +2,7 @@
 title: "Is Housecall Pro Worth It"
 slug: "is-housecall-pro-worth-it"
 page_type: "review"
+page_subtype: "general"
 primary_keyword: "is housecall pro worth it"
 search_intent: "commercial"
 audience: "buyers evaluating Housecall Pro value"

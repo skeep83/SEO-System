@@ -2,6 +2,7 @@
 title: "Service Titan Alternatives to Consider For Small Businesses"
 slug: "service-titan-alternatives-for-small-businesses"
 page_type: "alternatives"
+page_subtype: "workflow_pain"
 primary_keyword: "service titan alternatives for small businesses"
 search_intent: "commercial"
 audience: "smaller teams seeking lighter options"

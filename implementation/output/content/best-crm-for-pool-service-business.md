@@ -2,6 +2,7 @@
 title: "Best Crm For Pool Service Business"
 slug: "best-crm-for-pool-service-business"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for pool service business"
 search_intent: "commercial"
 audience: "pool service business owners"

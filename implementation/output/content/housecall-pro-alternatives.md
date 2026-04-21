@@ -2,6 +2,7 @@
 title: "Housecall Pro Alternatives to Consider"
 slug: "housecall-pro-alternatives"
 page_type: "alternatives"
+page_subtype: "workflow_pain"
 primary_keyword: "housecall pro alternatives"
 search_intent: "commercial"
 audience: "buyers considering alternatives to Housecall Pro"

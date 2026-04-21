@@ -2,6 +2,7 @@
 title: "Best Crm For Maid Service"
 slug: "best-crm-for-maid-service"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for maid service"
 search_intent: "commercial"
 audience: "maid service owners"

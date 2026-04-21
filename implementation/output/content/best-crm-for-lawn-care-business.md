@@ -2,6 +2,7 @@
 title: "Best Crm For Lawn Care Business"
 slug: "best-crm-for-lawn-care-business"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for lawn care business"
 search_intent: "commercial"
 audience: "lawn care business owners"

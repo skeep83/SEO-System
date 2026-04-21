@@ -2,6 +2,7 @@
 title: "Best Crm For Small Service Business in 2026"
 slug: "best-crm-for-small-service-business"
 page_type: "best_of"
+page_subtype: "crm"
 primary_keyword: "best crm for small service business"
 search_intent: "commercial"
 audience: "owners of small local service businesses"

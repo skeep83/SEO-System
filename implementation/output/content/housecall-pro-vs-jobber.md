@@ -2,6 +2,7 @@
 title: "Housecall Pro Vs Jobber: Which Is Better?"
 slug: "housecall-pro-vs-jobber"
 page_type: "comparison"
+page_subtype: "peer_fsm"
 primary_keyword: "housecall pro vs jobber"
 search_intent: "commercial"
 audience: "service business operators comparing software"

@@ -2,6 +2,7 @@
 title: "Jobber Vs Workiz Pricing: Which Is Better?"
 slug: "jobber-vs-workiz-pricing"
 page_type: "comparison"
+page_subtype: "peer_fsm"
 primary_keyword: "jobber vs workiz pricing"
 search_intent: "commercial"
 audience: "buyers comparing pricing and value"

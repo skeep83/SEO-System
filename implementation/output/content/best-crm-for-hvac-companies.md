@@ -2,6 +2,7 @@
 title: "Best Crm For Hvac Companies"
 slug: "best-crm-for-hvac-companies"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for hvac companies"
 search_intent: "commercial"
 audience: "hvac business owners"

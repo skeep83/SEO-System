@@ -2,6 +2,7 @@
 title: "Best Crm For Moving Companies"
 slug: "best-crm-for-moving-companies"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for moving companies"
 search_intent: "commercial"
 audience: "moving company owners"

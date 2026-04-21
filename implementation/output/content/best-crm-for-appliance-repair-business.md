@@ -2,6 +2,7 @@
 title: "Best Crm For Appliance Repair Business"
 slug: "best-crm-for-appliance-repair-business"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for appliance repair business"
 search_intent: "commercial"
 audience: "appliance repair business owners"

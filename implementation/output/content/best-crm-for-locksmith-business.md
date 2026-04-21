@@ -2,6 +2,7 @@
 title: "Best Crm For Locksmith Business"
 slug: "best-crm-for-locksmith-business"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for locksmith business"
 search_intent: "commercial"
 audience: "locksmith business owners"

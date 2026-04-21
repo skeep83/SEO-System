@@ -2,6 +2,7 @@
 title: "Best Crm For Junk Removal Business"
 slug: "best-crm-for-junk-removal-business"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for junk removal business"
 search_intent: "commercial"
 audience: "junk removal business owners"

@@ -2,6 +2,7 @@
 title: "Is Jobber Worth It"
 slug: "is-jobber-worth-it"
 page_type: "review"
+page_subtype: "general"
 primary_keyword: "is jobber worth it"
 search_intent: "commercial"
 audience: "buyers evaluating Jobber value"

@@ -2,6 +2,7 @@
 title: "Fieldpulse Vs Jobber: Which Is Better?"
 slug: "fieldpulse-vs-jobber"
 page_type: "comparison"
+page_subtype: "peer_fsm"
 primary_keyword: "fieldpulse vs jobber"
 search_intent: "commercial"
 audience: "buyers comparing field service tools"

@@ -2,6 +2,7 @@
 title: "Best Crm For Landscaping Business"
 slug: "best-crm-for-landscaping-business"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for landscaping business"
 search_intent: "commercial"
 audience: "landscaping business owners"

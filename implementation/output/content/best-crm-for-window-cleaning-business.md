@@ -2,6 +2,7 @@
 title: "Best Crm For Window Cleaning Business"
 slug: "best-crm-for-window-cleaning-business"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for window cleaning business"
 search_intent: "commercial"
 audience: "window cleaning business owners"

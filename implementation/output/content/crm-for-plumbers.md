@@ -2,6 +2,7 @@
 title: "Crm For Plumbers"
 slug: "crm-for-plumbers"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "crm for plumbers"
 search_intent: "commercial"
 audience: "plumbing business owners"

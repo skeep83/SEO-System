@@ -2,6 +2,7 @@
 title: "Hubspot For Home Service Business"
 slug: "hubspot-for-home-service-business"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "hubspot for home service business"
 search_intent: "commercial"
 audience: "service businesses considering HubSpot"

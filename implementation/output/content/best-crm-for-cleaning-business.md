@@ -2,6 +2,7 @@
 title: "Best Crm For Cleaning Business"
 slug: "best-crm-for-cleaning-business"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for cleaning business"
 search_intent: "commercial"
 audience: "cleaning business owners"

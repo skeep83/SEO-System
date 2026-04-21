@@ -2,6 +2,7 @@
 title: "Best Crm For Contractors in 2026"
 slug: "best-crm-for-contractors"
 page_type: "best_of"
+page_subtype: "crm"
 primary_keyword: "best crm for contractors"
 search_intent: "commercial"
 audience: "small contractor businesses"

@@ -2,6 +2,7 @@
 title: "Best Crm For Hvac Small Business"
 slug: "best-crm-for-hvac-small-business"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "best crm for hvac small business"
 search_intent: "commercial"
 audience: "small hvac operators"

@@ -2,6 +2,7 @@
 title: "Jobber Pricing Review"
 slug: "jobber-pricing-review"
 page_type: "pricing"
+page_subtype: "general"
 primary_keyword: "jobber pricing review"
 search_intent: "commercial"
 audience: "buyers evaluating Jobber cost and value"

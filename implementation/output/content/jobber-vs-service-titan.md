@@ -2,6 +2,7 @@
 title: "Jobber Vs Service Titan: Which Is Better?"
 slug: "jobber-vs-service-titan"
 page_type: "comparison"
+page_subtype: "peer_fsm"
 primary_keyword: "jobber vs service titan"
 search_intent: "commercial"
 audience: "buyers comparing simple vs complex service software"

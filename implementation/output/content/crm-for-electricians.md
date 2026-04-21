@@ -2,6 +2,7 @@
 title: "Crm For Electricians"
 slug: "crm-for-electricians"
 page_type: "use_case"
+page_subtype: "trade_specific"
 primary_keyword: "crm for electricians"
 search_intent: "commercial"
 audience: "electrical service business owners"
