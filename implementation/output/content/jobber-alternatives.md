@@ -33,7 +33,7 @@ The best alternative is the one that fixes the current pain point without adding
 This page should help a buyer narrow the shortlist fast, not just learn vocabulary.
 
 ## Call to action
-Shortlist the 1 to 2 tools that best match your workflow first, then use the offer block only after eliminating the obvious poor fits. Good software decisions usually come from narrowing choices, not clicking the first CTA.
+Focus on the alternatives that fix the operational mismatch without adding new complexity the team does not need.
 
 ## Product scorecards
 

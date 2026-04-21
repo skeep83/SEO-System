@@ -37,7 +37,7 @@ def detect_subtype(keyword: str, page_type: str) -> str:
     if page_type == 'comparison':
         if 'hubspot' in k:
             return 'crm_vs_fsm'
-        if 'servicetitan' in k:
+        if 'servicetitan' in k or 'service titan' in k:
             return 'simple_vs_complex'
         return 'peer_fsm'
     if page_type == 'alternatives':
@@ -72,6 +72,8 @@ def default_cta(page_type: str, subtype: str) -> str:
         return 'Choose whether your main bottleneck is field execution or sales pipeline before treating both tools as direct substitutes.'
     if page_type == 'alternatives' and subtype == 'pricing_pain':
         return 'Focus on the alternatives that reduce cost without creating a worse workflow problem somewhere else.'
+    if page_type == 'alternatives' and subtype == 'workflow_pain':
+        return 'Focus on the alternatives that fix the operational mismatch without adding new complexity the team does not need.'
     return 'See the recommended tools and compare the best fit for your business.'
 
 
