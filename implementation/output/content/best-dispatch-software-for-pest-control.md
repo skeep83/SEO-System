@@ -27,9 +27,10 @@ Look at workflow fit first, then ease of adoption, pricing posture, and whether 
 The strongest shortlist should separate the safest all-round choice from the stronger second option and from heavier tools that only make sense in more complex environments.
 
 ## Comparison summary
-- Best if you need dispatch and scheduling first: field-service-first tools like Jobber or Housecall Pro.
-- Best if you need broader CRM and marketing flexibility: HubSpot.
-- Best if you run a larger operation with heavier process complexity: ServiceTitan.
+- Best if you want the safest all-round field-service fit: Jobber.
+- Best if communication, payments, and dispatch coordination matter more: Housecall Pro.
+- Best only if your operation is already much more complex: ServiceTitan.
+- Best only if field workflow is not the main issue: HubSpot.
 
 ## Comparison matrix
 - Ease of adoption: Jobber > Housecall Pro > HubSpot > ServiceTitan
@@ -47,7 +48,7 @@ Start with field workflow first. If dispatch, scheduling, and technician coordin
 For most small teams, the best FSM choice is the one that keeps operations clear and adoptable, not the one with the deepest enterprise feature set.
 
 ## Quick verdict
-This page should help a buyer narrow the shortlist fast, not just learn vocabulary.
+Most small teams should shortlist Jobber first, Housecall Pro second, and treat ServiceTitan as the exception rather than the default.
 
 ## Call to action
 Compare the strongest field-service-first tools first and eliminate heavier options that do not fit your current team size.
@@ -97,9 +98,9 @@ Compare the strongest field-service-first tools first and eliminate heavier opti
 This page should be reviewed before publication, especially if it carries affiliate links or product claims.
 
 ## Decision shortcuts
-- Choose a field-service-first tool if scheduling and dispatch are central.
-- Choose a broader CRM if pipeline, automation, and marketing matter more than technician workflows.
-- Eliminate options that are too complex for your current team size.
+- Choose Jobber if you want the safest all-round fit for a small field team.
+- Choose Housecall Pro if communication, payments, and dispatch coordination need more weight.
+- Eliminate ServiceTitan unless workflow depth clearly outweighs complexity cost.
 
 ## Related guides
 - [Compare Jobber and Housecall Pro](/housecall-pro-vs-jobber)

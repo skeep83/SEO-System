@@ -30,7 +30,7 @@ Compare alternatives by what problem they solve better, not by counting features
 The best alternative is the one that fixes the current pain point without adding a worse one elsewhere in the workflow.
 
 ## Quick verdict
-This page should help a buyer narrow the shortlist fast, not just learn vocabulary.
+The best alternative is the one that fixes the workflow mismatch without creating a worse adoption problem elsewhere.
 
 ## Call to action
 Focus on the alternatives that fix the operational mismatch without adding new complexity the team does not need.
@@ -105,9 +105,9 @@ Focus on the alternatives that fix the operational mismatch without adding new c
 - Source: https://www.hubspot.com/
 
 ## Decision shortcuts
-- Choose a field-service-first tool if scheduling and dispatch are central.
-- Choose a broader CRM if pipeline, automation, and marketing matter more than technician workflows.
-- Eliminate options that are too complex for your current team size.
+- Switch only if the current workflow mismatch is slowing execution consistently.
+- Prefer lighter alternatives before jumping to enterprise-level complexity.
+- Do not switch just to trade one set of annoyances for a worse implementation burden.
 
 ## Related guides
 - [See the main CRM shortlist](/best-crm-for-small-service-business)

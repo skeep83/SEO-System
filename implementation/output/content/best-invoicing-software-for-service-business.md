@@ -27,9 +27,10 @@ Look at workflow fit first, then ease of adoption, pricing posture, and whether 
 The strongest shortlist should separate the safest all-round choice from the stronger second option and from heavier tools that only make sense in more complex environments.
 
 ## Comparison summary
-- Best if you need dispatch and scheduling first: field-service-first tools like Jobber or Housecall Pro.
-- Best if you need broader CRM and marketing flexibility: HubSpot.
-- Best if you run a larger operation with heavier process complexity: ServiceTitan.
+- Best if invoices need to stay connected to estimates and jobs: Jobber.
+- Best if payments and customer communication need a tighter workflow: Housecall Pro.
+- Best only if invoicing complexity comes from a much larger operation: ServiceTitan.
+- Best only if sales pipeline matters more than invoicing execution: HubSpot.
 
 ## Comparison matrix
 - Ease of adoption: Jobber > Housecall Pro > HubSpot > ServiceTitan
@@ -47,7 +48,7 @@ Decide whether invoicing is mainly part of field workflow or mainly part of acco
 For most service businesses, the best invoicing setup is the one that reduces billing friction without disconnecting payments from the job workflow.
 
 ## Quick verdict
-This page should help a buyer narrow the shortlist fast, not just learn vocabulary.
+For most service businesses, invoicing works best when it stays connected to jobs, estimates, and payments instead of living in an isolated tool.
 
 ## Call to action
 Compare the tools that keep invoicing connected to estimates, jobs, and payments before adding separate finance complexity.
@@ -125,9 +126,9 @@ Compare the tools that keep invoicing connected to estimates, jobs, and payments
 This page should be reviewed before publication, especially if it carries affiliate links or product claims.
 
 ## Decision shortcuts
-- Choose a field-service-first tool if scheduling and dispatch are central.
-- Choose a broader CRM if pipeline, automation, and marketing matter more than technician workflows.
-- Eliminate options that are too complex for your current team size.
+- Choose a field-service-first tool if invoices usually come directly from jobs and estimates.
+- Choose an accounting-led path only if bookkeeping is the bigger bottleneck.
+- Eliminate heavy platforms unless your billing process is already much more complex.
 
 ## Related guides
 - [See the main CRM guide for service businesses](/best-crm-for-small-service-business)
