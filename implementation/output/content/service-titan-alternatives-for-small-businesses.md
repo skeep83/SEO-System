@@ -115,10 +115,9 @@ This page should be reviewed before publication, especially if it carries affili
 - Eliminate options that are too complex for your current team size.
 
 ## Related guides
-- [Compare Jobber and Housecall Pro](/housecall-pro-vs-jobber)
-- [See Jobber alternatives](/jobber-alternatives)
-- [Understand CRM for plumbers](/crm-for-plumbers)
-- [Understand CRM for electricians](/crm-for-electricians)
+- [See the main CRM shortlist](/best-crm-for-small-service-business)
+- [Compare two top field-service tools directly](/housecall-pro-vs-jobber)
+- [Expand the shortlist to broader FSM tools](/best-field-service-management-software-for-small-business)
 
 ## Site navigation
 - [Home](/)

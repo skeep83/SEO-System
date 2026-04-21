@@ -112,10 +112,9 @@ Shortlist the 1 to 2 tools that best match your workflow first, then use the off
 - Eliminate options that are too complex for your current team size.
 
 ## Related guides
-- [Compare Jobber and Housecall Pro](/housecall-pro-vs-jobber)
-- [See Jobber alternatives](/jobber-alternatives)
-- [Understand CRM for plumbers](/crm-for-plumbers)
-- [Understand CRM for electricians](/crm-for-electricians)
+- [See the main CRM shortlist](/best-crm-for-small-service-business)
+- [Compare two top field-service tools directly](/housecall-pro-vs-jobber)
+- [Expand the shortlist to broader FSM tools](/best-field-service-management-software-for-small-business)
 
 ## Site navigation
 - [Home](/)

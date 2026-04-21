@@ -129,10 +129,9 @@ This page should be reviewed before publication, especially if it carries affili
 - Eliminate options that are too complex for your current team size.
 
 ## Related guides
-- [Compare Jobber and Housecall Pro](/housecall-pro-vs-jobber)
-- [See Jobber alternatives](/jobber-alternatives)
-- [Understand CRM for plumbers](/crm-for-plumbers)
-- [Understand CRM for electricians](/crm-for-electricians)
+- [Compare dispatch-first software options](/best-dispatch-software-for-small-service-business)
+- [Compare FieldPulse and Jobber](/fieldpulse-vs-jobber)
+- [Compare Workiz and Jobber](/workiz-vs-jobber)
 
 ## Site navigation
 - [Home](/)

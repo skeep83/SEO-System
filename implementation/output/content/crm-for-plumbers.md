@@ -120,7 +120,6 @@ This page should be reviewed before publication, especially if it carries affili
 ## Related guides
 - [Compare Jobber and Housecall Pro](/housecall-pro-vs-jobber)
 - [See Jobber alternatives](/jobber-alternatives)
-- [Understand CRM for plumbers](/crm-for-plumbers)
 - [Understand CRM for electricians](/crm-for-electricians)
 
 ## Site navigation
