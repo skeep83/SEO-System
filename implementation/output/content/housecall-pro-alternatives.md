@@ -76,30 +76,30 @@ Focus on the alternatives that fix the operational mismatch without adding new c
 - HubSpot: only makes sense if the real pain is around pipeline and automation instead of field workflow.
 
 ## Recommended products
-### Jobber
-- Best for: plumbers, electricians, home service teams
-- Strengths: job scheduling, quoting, invoicing, customer management
-- Weaknesses: can get expensive as team grows
-- Pricing note: subscription pricing, varies by plan
-- Source: https://getjobber.com/
-
 ### Housecall Pro
 - Best for: home service businesses, growing dispatch teams
-- Strengths: dispatching, payments, estimates, customer communication
+- Strengths: stronger communication, dispatch flow, and customer interaction workflow
 - Weaknesses: feature depth may be overkill for very small teams
 - Pricing note: subscription pricing, varies by plan
 - Source: https://www.housecallpro.com/
 
+### Jobber
+- Best for: plumbers, electricians, home service teams
+- Strengths: simple operations coverage with lighter adoption burden
+- Weaknesses: can get expensive as team grows
+- Pricing note: subscription pricing, varies by plan
+- Source: https://getjobber.com/
+
 ### ServiceTitan
 - Best for: larger service businesses, operations-heavy teams
-- Strengths: enterprise workflows, reporting, dispatch, sales tools
+- Strengths: deeper process control for teams that have outgrown lighter tools
 - Weaknesses: higher complexity, often better for larger teams
 - Pricing note: custom pricing or sales-led pricing
 - Source: https://www.servicetitan.com/
 
 ### HubSpot
 - Best for: service businesses needing marketing plus CRM
-- Strengths: pipeline management, automation, marketing tools
+- Strengths: pipeline automation and broader CRM flexibility outside field execution
 - Weaknesses: not purpose-built for field service workflows
 - Pricing note: free tier plus paid plans
 - Source: https://www.hubspot.com/

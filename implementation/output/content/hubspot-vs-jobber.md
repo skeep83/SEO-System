@@ -80,32 +80,32 @@ Choose whether your main bottleneck is field execution or sales pipeline before 
 
 ## Recommended products
 ### Jobber
-- Best for: plumbers, electricians, home service teams
+- Best for: teams whose bottleneck is field execution, scheduling, and invoicing
 - Strengths: job scheduling, quoting, invoicing, customer management
 - Weaknesses: can get expensive as team grows
 - Pricing note: subscription pricing, varies by plan
 - Source: https://getjobber.com/
 
+### HubSpot
+- Best for: teams whose bottleneck is lead management and pipeline automation
+- Strengths: pipeline management, automation, marketing tools
+- Weaknesses: not purpose-built for field service workflows
+- Pricing note: free tier plus paid plans
+- Source: https://www.hubspot.com/
+
 ### Housecall Pro
-- Best for: home service businesses, growing dispatch teams
+- Best for: buyers who still want a field-service-first comparison benchmark
 - Strengths: dispatching, payments, estimates, customer communication
 - Weaknesses: feature depth may be overkill for very small teams
 - Pricing note: subscription pricing, varies by plan
 - Source: https://www.housecallpro.com/
 
 ### ServiceTitan
-- Best for: larger service businesses, operations-heavy teams
+- Best for: operations already large enough to justify much heavier control
 - Strengths: enterprise workflows, reporting, dispatch, sales tools
 - Weaknesses: higher complexity, often better for larger teams
 - Pricing note: custom pricing or sales-led pricing
 - Source: https://www.servicetitan.com/
-
-### HubSpot
-- Best for: service businesses needing marketing plus CRM
-- Strengths: pipeline management, automation, marketing tools
-- Weaknesses: not purpose-built for field service workflows
-- Pricing note: free tier plus paid plans
-- Source: https://www.hubspot.com/
 
 ## Editor note
 This page should be reviewed before publication, especially if it carries affiliate links or product claims.

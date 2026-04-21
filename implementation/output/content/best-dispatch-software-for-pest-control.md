@@ -94,6 +94,34 @@ Compare the strongest field-service-first tools first and eliminate heavier opti
 - HubSpot: weaker fit here unless sales pipeline matters more than field execution.
 
 ## Recommended products
+### Jobber
+- Best for: small field-service teams that want the safest all-round operating fit
+- Strengths: job scheduling, quoting, invoicing, customer management
+- Weaknesses: can feel limiting if the team later needs heavier operational depth
+- Pricing note: subscription pricing, varies by plan
+- Source: https://getjobber.com/
+
+### Housecall Pro
+- Best for: growing service teams that need stronger communication and dispatch coordination
+- Strengths: dispatching, payments, estimates, customer communication
+- Weaknesses: can feel like more system than a very small team wants
+- Pricing note: subscription pricing, varies by plan
+- Source: https://www.housecallpro.com/
+
+### ServiceTitan
+- Best for: larger service operations with much heavier workflow depth
+- Strengths: enterprise workflows, reporting, dispatch, sales tools
+- Weaknesses: too much complexity for many small operators
+- Pricing note: custom pricing or sales-led pricing
+- Source: https://www.servicetitan.com/
+
+### HubSpot
+- Best for: businesses where pipeline and marketing matter more than field execution
+- Strengths: pipeline management, automation, marketing tools
+- Weaknesses: not built around technician-first workflow
+- Pricing note: free tier plus paid plans
+- Source: https://www.hubspot.com/
+
 ## Editor note
 This page should be reviewed before publication, especially if it carries affiliate links or product claims.
 
