@@ -55,6 +55,8 @@ def main() -> None:
     site_dir = Path(__file__).resolve().parents[1] / 'output' / 'site'
     updated = 0
     for file in site_dir.glob('*.html'):
+        if file.name.startswith('fo-verify'):
+            continue
         text = file.read_text()
         slug = file.stem
         title = extract_title(text)

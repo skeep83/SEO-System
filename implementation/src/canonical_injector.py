@@ -9,6 +9,8 @@ def main() -> None:
     site_dir = Path(__file__).resolve().parents[1] / 'output' / 'site'
     updated = 0
     for file in site_dir.glob('*.html'):
+        if file.name.startswith('fo-verify'):
+            continue
         slug = file.stem
         canonical = BASE_URL if slug == 'index' else f'{BASE_URL}{slug}'
         text = file.read_text()
