@@ -8,6 +8,8 @@ import json
 from analytics_settings import GA4_MEASUREMENT_ID
 from site_settings import SITE_NAME, SITE_TAGLINE, SITE_URL
 
+FLEXOFFERS_VERIFY = '9e1d32fb-49d8-48e6-a930-ba97187d23da'
+
 
 def meta_description(text: str, fallback: str) -> str:
     source = re.sub(r"\s+", " ", (text or fallback or "")).strip()
@@ -190,6 +192,7 @@ def render_page(title: str, sections: list[tuple[str, list[str]]]) -> str:
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
   <meta name=\"theme-color\" content=\"#e9eef7\">
   <meta name=\"description\" content=\"{html.escape(page_description)}\">
+  <meta name=\"fo-verify\" content=\"{FLEXOFFERS_VERIFY}\">
   <title>{html.escape(title)} | {html.escape(SITE_NAME)}</title>
   <style>
     :root {{
