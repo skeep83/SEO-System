@@ -9,6 +9,7 @@ from analytics_settings import GA4_MEASUREMENT_ID
 from site_settings import SITE_NAME, SITE_TAGLINE, SITE_URL
 
 FLEXOFFERS_VERIFY = '9e1d32fb-49d8-48e6-a930-ba97187d23da'
+SKIMLINKS_SNIPPET = '<script type="text/javascript" src="https://s.skimresources.com/js/301862X1789840.skimlinks.js"></script>'
 
 
 def meta_description(text: str, fallback: str) -> str:
@@ -283,6 +284,7 @@ def render_page(title: str, sections: list[tuple[str, list[str]]]) -> str:
   {ga4_snippet()}
 </head>
 <body>
+{SKIMLINKS_SNIPPET}
   <div class="shell">
     <header class="topbar">
       <div class="brand">
@@ -363,6 +365,7 @@ def render_index(pages: list[tuple[str, str]]) -> str:
   {ga4_snippet()}
 </head>
 <body>
+{SKIMLINKS_SNIPPET}
   <div class="shell">
     <section class="hero">
       <div style="font-size:.8rem;text-transform:uppercase;letter-spacing:.05em;color:#7f5cff;font-weight:700;">ServiceHub</div>

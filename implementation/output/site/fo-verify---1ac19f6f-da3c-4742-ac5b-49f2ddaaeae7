@@ -6,22 +6,5 @@
 </head>
 <body>
  <h2>This file is used to verify website ownership only.</h2>
-
-<script>
-document.addEventListener('click', function (event) {
-  const link = event.target.closest('a');
-  if (!link) return;
-  const href = link.getAttribute('href') || '';
-  if (!href.startsWith('http')) return;
-  if (typeof gtag === 'function') {
-    gtag('event', 'affiliate_click', {
-      link_url: href,
-      link_text: (link.textContent || '').trim(),
-      page_path: window.location.pathname
-    });
-  }
-});
-</script>
-
 </body>
 </html>
